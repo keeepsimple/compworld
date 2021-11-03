@@ -1,0 +1,1331 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://localhost/compworld/xmlrpc.php">
+
+<title>Computer World &#8211; All in one website</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Dòng thông tin Computer World &raquo;" href="http://localhost/compworld/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Dòng phản hồi Computer World &raquo;" href="http://localhost/compworld/comments/feed/" />
+		<script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/localhost\/compworld\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.1"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='http://localhost/compworld/wp-includes/css/dist/block-library/style.min.css?ver=5.8.1' media='all' />
+<style id='wp-block-library-theme-inline-css'>
+#start-resizable-editor-section{display:none}.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-code{font-family:Menlo,Consolas,monaco,monospace;color:#1e1e1e;padding:.8em 1em;border:1px solid #ddd;border-radius:4px}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-pullquote{border-top:4px solid;border-bottom:4px solid;margin-bottom:1.75em;color:currentColor}.wp-block-pullquote__citation,.wp-block-pullquote cite,.wp-block-pullquote footer{color:currentColor;text-transform:uppercase;font-size:.8125em;font-style:normal}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;position:relative;font-style:normal}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-group.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto;opacity:.4}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table thead{border-bottom:3px solid}.wp-block-table tfoot{border-top:3px solid}.wp-block-table td,.wp-block-table th{padding:.5em;border:1px solid;word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-template-part.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}#end-resizable-editor-section{display:none}
+</style>
+<link rel='stylesheet' id='wc-blocks-vendors-style-css'  href='http://localhost/compworld/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=5.9.1' media='all' />
+<link rel='stylesheet' id='wc-blocks-style-css'  href='http://localhost/compworld/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=5.9.1' media='all' />
+<link rel='stylesheet' id='storefront-gutenberg-blocks-css'  href='http://localhost/compworld/wp-content/themes/storefront/assets/css/base/gutenberg-blocks.css?ver=3.9.1' media='all' />
+<style id='storefront-gutenberg-blocks-inline-css'>
+
+				.wp-block-button__link:not(.has-text-color) {
+					color: #1e73be;
+				}
+
+				.wp-block-button__link:not(.has-text-color):hover,
+				.wp-block-button__link:not(.has-text-color):focus,
+				.wp-block-button__link:not(.has-text-color):active {
+					color: #1e73be;
+				}
+
+				.wp-block-button__link:not(.has-background) {
+					background-color: #eeeeee;
+				}
+
+				.wp-block-button__link:not(.has-background):hover,
+				.wp-block-button__link:not(.has-background):focus,
+				.wp-block-button__link:not(.has-background):active {
+					border-color: #d5d5d5;
+					background-color: #d5d5d5;
+				}
+
+				.wp-block-quote footer,
+				.wp-block-quote cite,
+				.wp-block-quote__citation {
+					color: #6d6d6d;
+				}
+
+				.wp-block-pullquote cite,
+				.wp-block-pullquote footer,
+				.wp-block-pullquote__citation {
+					color: #6d6d6d;
+				}
+
+				.wp-block-image figcaption {
+					color: #6d6d6d;
+				}
+
+				.wp-block-separator.is-style-dots::before {
+					color: #333333;
+				}
+
+				.wp-block-file a.wp-block-file__button {
+					color: #1e73be;
+					background-color: #eeeeee;
+					border-color: #eeeeee;
+				}
+
+				.wp-block-file a.wp-block-file__button:hover,
+				.wp-block-file a.wp-block-file__button:focus,
+				.wp-block-file a.wp-block-file__button:active {
+					color: #1e73be;
+					background-color: #d5d5d5;
+				}
+
+				.wp-block-code,
+				.wp-block-preformatted pre {
+					color: #6d6d6d;
+				}
+
+				.wp-block-table:not( .has-background ):not( .is-style-stripes ) tbody tr:nth-child(2n) td {
+					background-color: #fdfdfd;
+				}
+
+				.wp-block-cover .wp-block-cover__inner-container h1:not(.has-text-color),
+				.wp-block-cover .wp-block-cover__inner-container h2:not(.has-text-color),
+				.wp-block-cover .wp-block-cover__inner-container h3:not(.has-text-color),
+				.wp-block-cover .wp-block-cover__inner-container h4:not(.has-text-color),
+				.wp-block-cover .wp-block-cover__inner-container h5:not(.has-text-color),
+				.wp-block-cover .wp-block-cover__inner-container h6:not(.has-text-color) {
+					color: #000000;
+				}
+
+				.wc-block-components-price-slider__range-input-progress,
+				.rtl .wc-block-components-price-slider__range-input-progress {
+					--range-color: #7f54b3;
+				}
+
+				/* Target only IE11 */
+				@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+					.wc-block-components-price-slider__range-input-progress {
+						background: #7f54b3;
+					}
+				}
+
+				.wc-block-components-button:not(.is-link) {
+					background-color: #333333;
+					color: #ffffff;
+				}
+
+				.wc-block-components-button:not(.is-link):hover,
+				.wc-block-components-button:not(.is-link):focus,
+				.wc-block-components-button:not(.is-link):active {
+					background-color: #1a1a1a;
+					color: #ffffff;
+				}
+
+				.wc-block-components-button:not(.is-link):disabled {
+					background-color: #333333;
+					color: #ffffff;
+				}
+
+				.wc-block-cart__submit-container {
+					background-color: #ffffff;
+				}
+
+				.wc-block-cart__submit-container::before {
+					color: rgba(220,220,220,0.5);
+				}
+
+				.wc-block-components-order-summary-item__quantity {
+					background-color: #ffffff;
+					border-color: #6d6d6d;
+					box-shadow: 0 0 0 2px #ffffff;
+					color: #6d6d6d;
+				}
+			
+</style>
+<style id='woocommerce-inline-inline-css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='storefront-style-css'  href='http://localhost/compworld/wp-content/themes/storefront/style.css?ver=3.9.1' media='all' />
+<style id='storefront-style-inline-css'>
+
+			.main-navigation ul li a,
+			.site-title a,
+			ul.menu li a,
+			.site-branding h1 a,
+			button.menu-toggle,
+			button.menu-toggle:hover,
+			.handheld-navigation .dropdown-toggle {
+				color: #333333;
+			}
+
+			button.menu-toggle,
+			button.menu-toggle:hover {
+				border-color: #333333;
+			}
+
+			.main-navigation ul li a:hover,
+			.main-navigation ul li:hover > a,
+			.site-title a:hover,
+			.site-header ul.menu li.current-menu-item > a {
+				color: #747474;
+			}
+
+			table:not( .has-background ) th {
+				background-color: #f8f8f8;
+			}
+
+			table:not( .has-background ) tbody td {
+				background-color: #fdfdfd;
+			}
+
+			table:not( .has-background ) tbody tr:nth-child(2n) td,
+			fieldset,
+			fieldset legend {
+				background-color: #fbfbfb;
+			}
+
+			.site-header,
+			.secondary-navigation ul ul,
+			.main-navigation ul.menu > li.menu-item-has-children:after,
+			.secondary-navigation ul.menu ul,
+			.storefront-handheld-footer-bar,
+			.storefront-handheld-footer-bar ul li > a,
+			.storefront-handheld-footer-bar ul li.search .site-search,
+			button.menu-toggle,
+			button.menu-toggle:hover {
+				background-color: #ffffff;
+			}
+
+			p.site-description,
+			.site-header,
+			.storefront-handheld-footer-bar {
+				color: #dd3333;
+			}
+
+			button.menu-toggle:after,
+			button.menu-toggle:before,
+			button.menu-toggle span:before {
+				background-color: #333333;
+			}
+
+			h1, h2, h3, h4, h5, h6, .wc-block-grid__product-title {
+				color: #333333;
+			}
+
+			.widget h1 {
+				border-bottom-color: #333333;
+			}
+
+			body,
+			.secondary-navigation a {
+				color: #6d6d6d;
+			}
+
+			.widget-area .widget a,
+			.hentry .entry-header .posted-on a,
+			.hentry .entry-header .post-author a,
+			.hentry .entry-header .post-comments a,
+			.hentry .entry-header .byline a {
+				color: #727272;
+			}
+
+			a {
+				color: #7f54b3;
+			}
+
+			a:focus,
+			button:focus,
+			.button.alt:focus,
+			input:focus,
+			textarea:focus,
+			input[type="button"]:focus,
+			input[type="reset"]:focus,
+			input[type="submit"]:focus,
+			input[type="email"]:focus,
+			input[type="tel"]:focus,
+			input[type="url"]:focus,
+			input[type="password"]:focus,
+			input[type="search"]:focus {
+				outline-color: #7f54b3;
+			}
+
+			button, input[type="button"], input[type="reset"], input[type="submit"], .button, .widget a.button {
+				background-color: #eeeeee;
+				border-color: #eeeeee;
+				color: #1e73be;
+			}
+
+			button:hover, input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]:hover, .button:hover, .widget a.button:hover {
+				background-color: #d5d5d5;
+				border-color: #d5d5d5;
+				color: #1e73be;
+			}
+
+			button.alt, input[type="button"].alt, input[type="reset"].alt, input[type="submit"].alt, .button.alt, .widget-area .widget a.button.alt {
+				background-color: #333333;
+				border-color: #333333;
+				color: #ffffff;
+			}
+
+			button.alt:hover, input[type="button"].alt:hover, input[type="reset"].alt:hover, input[type="submit"].alt:hover, .button.alt:hover, .widget-area .widget a.button.alt:hover {
+				background-color: #1a1a1a;
+				border-color: #1a1a1a;
+				color: #ffffff;
+			}
+
+			.pagination .page-numbers li .page-numbers.current {
+				background-color: #e6e6e6;
+				color: #636363;
+			}
+
+			#comments .comment-list .comment-content .comment-text {
+				background-color: #f8f8f8;
+			}
+
+			.site-footer {
+				background-color: #6b95bf;
+				color: #ffffff;
+			}
+
+			.site-footer a:not(.button):not(.components-button) {
+				color: #333333;
+			}
+
+			.site-footer .storefront-handheld-footer-bar a:not(.button):not(.components-button) {
+				color: #333333;
+			}
+
+			.site-footer h1, .site-footer h2, .site-footer h3, .site-footer h4, .site-footer h5, .site-footer h6, .site-footer .widget .widget-title, .site-footer .widget .widgettitle {
+				color: #333333;
+			}
+
+			.page-template-template-homepage.has-post-thumbnail .type-page.has-post-thumbnail .entry-title {
+				color: #000000;
+			}
+
+			.page-template-template-homepage.has-post-thumbnail .type-page.has-post-thumbnail .entry-content {
+				color: #000000;
+			}
+
+			@media screen and ( min-width: 768px ) {
+				.secondary-navigation ul.menu a:hover {
+					color: #f64c4c;
+				}
+
+				.secondary-navigation ul.menu a {
+					color: #dd3333;
+				}
+
+				.main-navigation ul.menu ul.sub-menu,
+				.main-navigation ul.nav-menu ul.children {
+					background-color: #f0f0f0;
+				}
+
+				.site-header {
+					border-bottom-color: #f0f0f0;
+				}
+			}
+</style>
+<link rel='stylesheet' id='storefront-icons-css'  href='http://localhost/compworld/wp-content/themes/storefront/assets/css/base/icons.css?ver=3.9.1' media='all' />
+<link rel='stylesheet' id='storefront-fonts-css'  href='https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C300%2C300italic%2C400italic%2C600%2C700%2C900&#038;subset=latin%2Clatin-ext&#038;ver=3.9.1' media='all' />
+<link rel='stylesheet' id='storefront-woocommerce-style-css'  href='http://localhost/compworld/wp-content/themes/storefront/assets/css/woocommerce/woocommerce.css?ver=3.9.1' media='all' />
+<style id='storefront-woocommerce-style-inline-css'>
+@font-face {
+				font-family: star;
+				src: url(http://localhost/compworld/wp-content/plugins/woocommerce/assets/fonts/star.eot);
+				src:
+					url(http://localhost/compworld/wp-content/plugins/woocommerce/assets/fonts/star.eot?#iefix) format("embedded-opentype"),
+					url(http://localhost/compworld/wp-content/plugins/woocommerce/assets/fonts/star.woff) format("woff"),
+					url(http://localhost/compworld/wp-content/plugins/woocommerce/assets/fonts/star.ttf) format("truetype"),
+					url(http://localhost/compworld/wp-content/plugins/woocommerce/assets/fonts/star.svg#star) format("svg");
+				font-weight: 400;
+				font-style: normal;
+			}
+			@font-face {
+				font-family: WooCommerce;
+				src: url(http://localhost/compworld/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot);
+				src:
+					url(http://localhost/compworld/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot?#iefix) format("embedded-opentype"),
+					url(http://localhost/compworld/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff) format("woff"),
+					url(http://localhost/compworld/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.ttf) format("truetype"),
+					url(http://localhost/compworld/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.svg#WooCommerce) format("svg");
+				font-weight: 400;
+				font-style: normal;
+			}
+
+			a.cart-contents,
+			.site-header-cart .widget_shopping_cart a {
+				color: #333333;
+			}
+
+			a.cart-contents:hover,
+			.site-header-cart .widget_shopping_cart a:hover,
+			.site-header-cart:hover > li > a {
+				color: #747474;
+			}
+
+			table.cart td.product-remove,
+			table.cart td.actions {
+				border-top-color: #ffffff;
+			}
+
+			.storefront-handheld-footer-bar ul li.cart .count {
+				background-color: #333333;
+				color: #ffffff;
+				border-color: #ffffff;
+			}
+
+			.woocommerce-tabs ul.tabs li.active a,
+			ul.products li.product .price,
+			.onsale,
+			.wc-block-grid__product-onsale,
+			.widget_search form:before,
+			.widget_product_search form:before {
+				color: #6d6d6d;
+			}
+
+			.woocommerce-breadcrumb a,
+			a.woocommerce-review-link,
+			.product_meta a {
+				color: #727272;
+			}
+
+			.wc-block-grid__product-onsale,
+			.onsale {
+				border-color: #6d6d6d;
+			}
+
+			.star-rating span:before,
+			.quantity .plus, .quantity .minus,
+			p.stars a:hover:after,
+			p.stars a:after,
+			.star-rating span:before,
+			#payment .payment_methods li input[type=radio]:first-child:checked+label:before {
+				color: #7f54b3;
+			}
+
+			.widget_price_filter .ui-slider .ui-slider-range,
+			.widget_price_filter .ui-slider .ui-slider-handle {
+				background-color: #7f54b3;
+			}
+
+			.order_details {
+				background-color: #f8f8f8;
+			}
+
+			.order_details > li {
+				border-bottom: 1px dotted #e3e3e3;
+			}
+
+			.order_details:before,
+			.order_details:after {
+				background: -webkit-linear-gradient(transparent 0,transparent 0),-webkit-linear-gradient(135deg,#f8f8f8 33.33%,transparent 33.33%),-webkit-linear-gradient(45deg,#f8f8f8 33.33%,transparent 33.33%)
+			}
+
+			#order_review {
+				background-color: #ffffff;
+			}
+
+			#payment .payment_methods > li .payment_box,
+			#payment .place-order {
+				background-color: #fafafa;
+			}
+
+			#payment .payment_methods > li:not(.woocommerce-notice) {
+				background-color: #f5f5f5;
+			}
+
+			#payment .payment_methods > li:not(.woocommerce-notice):hover {
+				background-color: #f0f0f0;
+			}
+
+			.woocommerce-pagination .page-numbers li .page-numbers.current {
+				background-color: #e6e6e6;
+				color: #636363;
+			}
+
+			.wc-block-grid__product-onsale,
+			.onsale,
+			.woocommerce-pagination .page-numbers li .page-numbers:not(.current) {
+				color: #6d6d6d;
+			}
+
+			p.stars a:before,
+			p.stars a:hover~a:before,
+			p.stars.selected a.active~a:before {
+				color: #6d6d6d;
+			}
+
+			p.stars.selected a.active:before,
+			p.stars:hover a:before,
+			p.stars.selected a:not(.active):before,
+			p.stars.selected a.active:before {
+				color: #7f54b3;
+			}
+
+			.single-product div.product .woocommerce-product-gallery .woocommerce-product-gallery__trigger {
+				background-color: #eeeeee;
+				color: #1e73be;
+			}
+
+			.single-product div.product .woocommerce-product-gallery .woocommerce-product-gallery__trigger:hover {
+				background-color: #d5d5d5;
+				border-color: #d5d5d5;
+				color: #1e73be;
+			}
+
+			.button.added_to_cart:focus,
+			.button.wc-forward:focus {
+				outline-color: #7f54b3;
+			}
+
+			.added_to_cart,
+			.site-header-cart .widget_shopping_cart a.button,
+			.wc-block-grid__products .wc-block-grid__product .wp-block-button__link {
+				background-color: #eeeeee;
+				border-color: #eeeeee;
+				color: #1e73be;
+			}
+
+			.added_to_cart:hover,
+			.site-header-cart .widget_shopping_cart a.button:hover,
+			.wc-block-grid__products .wc-block-grid__product .wp-block-button__link:hover {
+				background-color: #d5d5d5;
+				border-color: #d5d5d5;
+				color: #1e73be;
+			}
+
+			.added_to_cart.alt, .added_to_cart, .widget a.button.checkout {
+				background-color: #333333;
+				border-color: #333333;
+				color: #ffffff;
+			}
+
+			.added_to_cart.alt:hover, .added_to_cart:hover, .widget a.button.checkout:hover {
+				background-color: #1a1a1a;
+				border-color: #1a1a1a;
+				color: #ffffff;
+			}
+
+			.button.loading {
+				color: #eeeeee;
+			}
+
+			.button.loading:hover {
+				background-color: #eeeeee;
+			}
+
+			.button.loading:after {
+				color: #1e73be;
+			}
+
+			@media screen and ( min-width: 768px ) {
+				.site-header-cart .widget_shopping_cart,
+				.site-header .product_list_widget li .quantity {
+					color: #dd3333;
+				}
+
+				.site-header-cart .widget_shopping_cart .buttons,
+				.site-header-cart .widget_shopping_cart .total {
+					background-color: #f5f5f5;
+				}
+
+				.site-header-cart .widget_shopping_cart {
+					background-color: #f0f0f0;
+				}
+			}
+				.storefront-product-pagination a {
+					color: #6d6d6d;
+					background-color: #ffffff;
+				}
+				.storefront-sticky-add-to-cart {
+					color: #6d6d6d;
+					background-color: #ffffff;
+				}
+
+				.storefront-sticky-add-to-cart a:not(.button) {
+					color: #333333;
+				}
+</style>
+<script src='http://localhost/compworld/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script src='http://localhost/compworld/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="http://localhost/compworld/wp-json/" /><link rel="alternate" type="application/json" href="http://localhost/compworld/wp-json/wp/v2/pages/311" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://localhost/compworld/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://localhost/compworld/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.8.1" />
+<meta name="generator" content="WooCommerce 5.8.0" />
+<link rel="canonical" href="http://localhost/compworld/" />
+<link rel='shortlink' href='http://localhost/compworld/' />
+<link rel="alternate" type="application/json+oembed" href="http://localhost/compworld/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fcompworld%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://localhost/compworld/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fcompworld%2F&#038;format=xml" />
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<link rel="icon" href="http://localhost/compworld/wp-content/uploads/2021/11/logo.png" sizes="32x32" />
+<link rel="icon" href="http://localhost/compworld/wp-content/uploads/2021/11/logo.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="http://localhost/compworld/wp-content/uploads/2021/11/logo.png" />
+<meta name="msapplication-TileImage" content="http://localhost/compworld/wp-content/uploads/2021/11/logo.png" />
+</head>
+
+<body class="home page-template page-template-template-homepage page-template-template-homepage-php page page-id-311 wp-custom-logo wp-embed-responsive theme-storefront woocommerce-demo-store woocommerce-no-js storefront-full-width-content storefront-align-wide right-sidebar woocommerce-active">
+
+
+
+<div id="page" class="hfeed site">
+	
+	<header id="masthead" class="site-header" role="banner" style="background-image: url(http://localhost/compworld/wp-content/uploads/2021/11/Webp.net-resizeimage.jpg); ">
+
+		<div class="col-full">		<a class="skip-link screen-reader-text" href="#site-navigation">Đi đến Điều hướng</a>
+		<a class="skip-link screen-reader-text" href="#content">Chuyển đến nội dung</a>
+				<div class="site-branding">
+			<a href="http://localhost/compworld/" class="custom-logo-link" rel="home" aria-current="page"><img width="368" height="222" src="http://localhost/compworld/wp-content/uploads/2021/11/logo-removebg-preview.png" class="custom-logo" alt="Computer World" /></a>		</div>
+					<div class="site-search">
+				<div class="widget woocommerce widget_product_search"><form role="search" method="get" class="woocommerce-product-search" action="http://localhost/compworld/">
+	<label class="screen-reader-text" for="woocommerce-product-search-field-0">Tìm kiếm:</label>
+	<input type="search" id="woocommerce-product-search-field-0" class="search-field" placeholder="Tìm sản phẩm&hellip;" value="" name="s" />
+	<button type="submit" value="Tìm kiếm">Tìm kiếm</button>
+	<input type="hidden" name="post_type" value="product" />
+</form>
+</div>			</div>
+			</div><div class="storefront-primary-navigation"><div class="col-full">		<nav id="site-navigation" class="main-navigation" role="navigation" aria-label="Thanh điều hướng chính">
+		<button class="menu-toggle" aria-controls="site-navigation" aria-expanded="false"><span>Danh mục</span></button>
+			<div class="menu"><ul>
+<li class="current_page_item"><a href="http://localhost/compworld/">Trang chủ</a></li><li class="page_item page-item-7"><a href="http://localhost/compworld/cua-hang/">Cửa hàng</a></li>
+<li class="page_item page-item-337"><a href="http://localhost/compworld/danh-muc/">Danh mục</a></li>
+<li class="page_item page-item-8"><a href="http://localhost/compworld/gio-hang/">Giỏ hàng</a></li>
+<li class="page_item page-item-10"><a href="https://localhost/compworld/tai-khoan/">Tài khoản</a></li>
+</ul></div>
+<div class="menu"><ul>
+<li class="current_page_item"><a href="http://localhost/compworld/">Trang chủ</a></li><li class="page_item page-item-7"><a href="http://localhost/compworld/cua-hang/">Cửa hàng</a></li>
+<li class="page_item page-item-337"><a href="http://localhost/compworld/danh-muc/">Danh mục</a></li>
+<li class="page_item page-item-8"><a href="http://localhost/compworld/gio-hang/">Giỏ hàng</a></li>
+<li class="page_item page-item-10"><a href="https://localhost/compworld/tai-khoan/">Tài khoản</a></li>
+</ul></div>
+		</nav><!-- #site-navigation -->
+				<ul id="site-header-cart" class="site-header-cart menu">
+			<li class="">
+							<a class="cart-contents" href="http://localhost/compworld/gio-hang/" title="Xem giỏ hàng của bạn">
+								<span class="woocommerce-Price-amount amount">0&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span> <span class="count">0 mục</span>
+			</a>
+					</li>
+			<li>
+				<div class="widget woocommerce widget_shopping_cart"><div class="widget_shopping_cart_content"></div></div>			</li>
+		</ul>
+			</div></div>
+	</header><!-- #masthead -->
+
+	
+	<div id="content" class="site-content" tabindex="-1">
+		<div class="col-full">
+
+		<div class="woocommerce"></div>
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+			
+<div id="post-311" class="post-311 page type-page status-publish hentry" style="" data-featured-image="">
+	<div class="col-full">
+				<header class="entry-header">
+					</header><!-- .entry-header -->
+				<div class="entry-content">
+			
+<h2 class="has-text-align-center">Hàng Mới Về</h2>
+
+
+<div data-block-name="woocommerce/product-new" data-columns="4" class="wc-block-grid wp-block-product-new wc-block-product-new has-4-columns has-multiple-rows"><ul class="wc-block-grid__products"><li class="wc-block-grid__product">
+				<a href="http://localhost/compworld/san-pham/pc-dell-optiplex-all-in-one-7490-i5-11500-8gb-ram-512gb-ssd-23-8-inch-fhd-wlbt-km-ubuntu/" class="wc-block-grid__product-link">
+					<div class="wc-block-grid__product-image"><img width="324" height="324" src="http://localhost/compworld/wp-content/uploads/2021/11/61132_dell_7490_2.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></div>
+					<div class="wc-block-grid__product-title">PC Dell OptiPlex All in One 7490 (i5-11500/8GB RAM/512GB SSD/23.8 inch FHD/WL+BT/K+M/Ubuntu)</div>
+				</a>
+				<div class="wc-block-grid__product-onsale">
+			<span aria-hidden="true">Khuyến mại</span>
+			<span class="screen-reader-text">Sản phẩm đang giảm giá</span>
+		</div>
+				<div class="wc-block-grid__product-price price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount">34.799.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></del> <ins><span class="woocommerce-Price-amount amount">33.299.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></ins></div>
+				
+				<div class="wp-block-button wc-block-grid__product-add-to-cart"><a href="?add-to-cart=267" aria-label="Thêm &ldquo;PC Dell OptiPlex All in One 7490 (i5-11500/8GB RAM/512GB SSD/23.8 inch FHD/WL+BT/K+M/Ubuntu)&rdquo; vào giỏ hàng" data-quantity="1" data-product_id="267" data-product_sku="" rel="nofollow" class="wp-block-button__link add_to_cart_button ajax_add_to_cart">Thêm vào giỏ hàng</a></div>
+			</li><li class="wc-block-grid__product">
+				<a href="http://localhost/compworld/san-pham/pc-dell-optiplex-all-in-one-7480-i5-10500-8gb-ram-512gb-ssd-23-8-inch-fhd-touch-wlbt-km-ubuntu/" class="wc-block-grid__product-link">
+					<div class="wc-block-grid__product-image"><img width="324" height="324" src="http://localhost/compworld/wp-content/uploads/2021/11/56547_dell_7480.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></div>
+					<div class="wc-block-grid__product-title">PC Dell OptiPlex All in One 7480 (i5-10500/8GB RAM/512GB SSD/23.8 inch FHD/Touch/WL+BT/K+M/Ubuntu)</div>
+				</a>
+				
+				<div class="wc-block-grid__product-price price"><span class="woocommerce-Price-amount amount">28.989.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></div>
+				
+				<div class="wp-block-button wc-block-grid__product-add-to-cart"><a href="?add-to-cart=265" aria-label="Thêm &ldquo;PC Dell OptiPlex All in One 7480 (i5-10500/8GB RAM/512GB SSD/23.8 inch FHD/Touch/WL+BT/K+M/Ubuntu)&rdquo; vào giỏ hàng" data-quantity="1" data-product_id="265" data-product_sku="" rel="nofollow" class="wp-block-button__link add_to_cart_button ajax_add_to_cart">Thêm vào giỏ hàng</a></div>
+			</li><li class="wc-block-grid__product">
+				<a href="http://localhost/compworld/san-pham/pc-dell-optiplex-3080-mt-i5-10500-4gb-ram-1tb-hdd-dvdrw-km-fedora-42ot380001/" class="wc-block-grid__product-link">
+					<div class="wc-block-grid__product-image"><img width="324" height="324" src="http://localhost/compworld/wp-content/uploads/2021/11/58367_56905_pc_dell_optiplex_3080_mt_micro_tower.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></div>
+					<div class="wc-block-grid__product-title">PC Dell OptiPlex 3080 MT (i5-10500/4GB RAM/1TB HDD/DVDRW/K+M/Fedora) (42OT380001)</div>
+				</a>
+				
+				<div class="wc-block-grid__product-price price"><span class="woocommerce-Price-amount amount">12.999.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></div>
+				
+				<div class="wp-block-button wc-block-grid__product-add-to-cart"><a href="?add-to-cart=263" aria-label="Thêm &ldquo;PC Dell OptiPlex 3080 MT (i5-10500/4GB RAM/1TB HDD/DVDRW/K+M/Fedora) (42OT380001)&rdquo; vào giỏ hàng" data-quantity="1" data-product_id="263" data-product_sku="" rel="nofollow" class="wp-block-button__link add_to_cart_button ajax_add_to_cart">Thêm vào giỏ hàng</a></div>
+			</li><li class="wc-block-grid__product">
+				<a href="http://localhost/compworld/san-pham/pc-dell-optiplex-3080mt-i3-10100-4gb-ram-1tb-hdd-dvdrw-km-fedora-3080mt-i310100-4g1tb/" class="wc-block-grid__product-link">
+					<div class="wc-block-grid__product-image"><img width="324" height="324" src="http://localhost/compworld/wp-content/uploads/2021/11/56904_pc_dell_optiplex_3080_mt_micro_tower.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></div>
+					<div class="wc-block-grid__product-title">PC Dell OptiPlex 3080MT (i3-10100/4GB RAM/1TB HDD/DVDRW/K+M/Fedora) (3080MT-i310100-4G1TB)</div>
+				</a>
+				<div class="wc-block-grid__product-onsale">
+			<span aria-hidden="true">Khuyến mại</span>
+			<span class="screen-reader-text">Sản phẩm đang giảm giá</span>
+		</div>
+				<div class="wc-block-grid__product-price price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount">9.799.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></del> <ins><span class="woocommerce-Price-amount amount">9.399.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></ins></div>
+				
+				<div class="wp-block-button wc-block-grid__product-add-to-cart"><a href="?add-to-cart=261" aria-label="Thêm &ldquo;PC Dell OptiPlex 3080MT (i3-10100/4GB RAM/1TB HDD/DVDRW/K+M/Fedora) (3080MT-i310100-4G1TB)&rdquo; vào giỏ hàng" data-quantity="1" data-product_id="261" data-product_sku="" rel="nofollow" class="wp-block-button__link add_to_cart_button ajax_add_to_cart">Thêm vào giỏ hàng</a></div>
+			</li><li class="wc-block-grid__product">
+				<a href="http://localhost/compworld/san-pham/may-tram-asus-pro-e800-g4-barebone-c621-dvd-rw-2000w-platinum/" class="wc-block-grid__product-link">
+					<div class="wc-block-grid__product-image"><img width="324" height="324" src="http://localhost/compworld/wp-content/uploads/2021/11/54521_pro_e800_g4_004.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></div>
+					<div class="wc-block-grid__product-title">Máy trạm Asus Pro E800 G4 (Barebone / C621 / DVD-RW / 2000W Platinum)</div>
+				</a>
+				
+				<div class="wc-block-grid__product-price price"><span class="woocommerce-Price-amount amount">70.299.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></div>
+				
+				<div class="wp-block-button wc-block-grid__product-add-to-cart"><a href="?add-to-cart=256" aria-label="Thêm &ldquo;Máy trạm Asus Pro E800 G4 (Barebone / C621 / DVD-RW / 2000W Platinum)&rdquo; vào giỏ hàng" data-quantity="1" data-product_id="256" data-product_sku="" rel="nofollow" class="wp-block-button__link add_to_cart_button ajax_add_to_cart">Thêm vào giỏ hàng</a></div>
+			</li><li class="wc-block-grid__product">
+				<a href="http://localhost/compworld/san-pham/may-tram-asus-e900-g4-barebone-c621-dvd-rw-2000w-titanium-redundant-power-11/" class="wc-block-grid__product-link">
+					<div class="wc-block-grid__product-image"><img width="324" height="324" src="http://localhost/compworld/wp-content/uploads/2021/11/54523_asus_e900_g4_004.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></div>
+					<div class="wc-block-grid__product-title">Máy trạm Asus E900 G4 (Barebone / C621 / DVD-RW / 2000W TITANIUM Redundant Power (1+1))</div>
+				</a>
+				
+				<div class="wc-block-grid__product-price price"><span class="woocommerce-Price-amount amount">93.929.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></div>
+				
+				<div class="wp-block-button wc-block-grid__product-add-to-cart"><a href="?add-to-cart=251" aria-label="Thêm &ldquo;Máy trạm Asus E900 G4 (Barebone / C621 / DVD-RW / 2000W TITANIUM Redundant Power (1+1))&rdquo; vào giỏ hàng" data-quantity="1" data-product_id="251" data-product_sku="" rel="nofollow" class="wp-block-button__link add_to_cart_button ajax_add_to_cart">Thêm vào giỏ hàng</a></div>
+			</li><li class="wc-block-grid__product">
+				<a href="http://localhost/compworld/san-pham/pc-hacom-render-r010-dual-e5-2680v4-c612-32gb-ram-240gb-ssd-700w/" class="wc-block-grid__product-link">
+					<div class="wc-block-grid__product-image"><img width="324" height="324" src="http://localhost/compworld/wp-content/uploads/2021/11/58720_pc_render_r010.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></div>
+					<div class="wc-block-grid__product-title">PC HACOM Render R010 (Dual E5-2680v4/C612/32GB RAM/240GB SSD/700W)</div>
+				</a>
+				
+				<div class="wc-block-grid__product-price price"><span class="woocommerce-Price-amount amount">31.109.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></div>
+				
+				<div class="wp-block-button wc-block-grid__product-add-to-cart"><a href="?add-to-cart=249" aria-label="Thêm &ldquo;PC HACOM Render R010 (Dual E5-2680v4/C612/32GB RAM/240GB SSD/700W)&rdquo; vào giỏ hàng" data-quantity="1" data-product_id="249" data-product_sku="" rel="nofollow" class="wp-block-button__link add_to_cart_button ajax_add_to_cart">Thêm vào giỏ hàng</a></div>
+			</li><li class="wc-block-grid__product">
+				<a href="http://localhost/compworld/san-pham/pc-hacom-dung-cad-c010-i9-10900k-32gb-ram-rtx-4000-500gb-ssd-750w/" class="wc-block-grid__product-link">
+					<div class="wc-block-grid__product-image"><img width="324" height="324" src="http://localhost/compworld/wp-content/uploads/2021/11/53723_pc_d___ng_cad_c010.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></div>
+					<div class="wc-block-grid__product-title">PC HACOM Dựng CAD C010 (i9-10900K/32GB RAM/RTX 4000/500GB SSD/750w)</div>
+				</a>
+				
+				<div class="wc-block-grid__product-price price"><span class="woocommerce-Price-amount amount">62.019.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></div>
+				
+				<div class="wp-block-button wc-block-grid__product-add-to-cart"><a href="?add-to-cart=247" aria-label="Thêm &ldquo;PC HACOM Dựng CAD C010 (i9-10900K/32GB RAM/RTX 4000/500GB SSD/750w)&rdquo; vào giỏ hàng" data-quantity="1" data-product_id="247" data-product_sku="" rel="nofollow" class="wp-block-button__link add_to_cart_button ajax_add_to_cart">Thêm vào giỏ hàng</a></div>
+			</li><li class="wc-block-grid__product">
+				<a href="http://localhost/compworld/san-pham/pc-hacom-dung-cad-c033-i3-10105f-h410-8gb-ram-240gb-ssd-quadro-p400-350w/" class="wc-block-grid__product-link">
+					<div class="wc-block-grid__product-image"><img width="324" height="321" src="http://localhost/compworld/wp-content/uploads/2021/11/59704_pcws_cad_c033.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></div>
+					<div class="wc-block-grid__product-title">PC HACOM Dựng CAD C033 (i3-10105F/H410/8GB RAM/240GB SSD/Quadro P400/350W)</div>
+				</a>
+				
+				<div class="wc-block-grid__product-price price"><span class="woocommerce-Price-amount amount">10.199.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></div>
+				
+				<div class="wp-block-button wc-block-grid__product-add-to-cart"><a href="?add-to-cart=244" aria-label="Thêm &ldquo;PC HACOM Dựng CAD C033 (i3-10105F/H410/8GB RAM/240GB SSD/Quadro P400/350W)&rdquo; vào giỏ hàng" data-quantity="1" data-product_id="244" data-product_sku="" rel="nofollow" class="wp-block-button__link add_to_cart_button ajax_add_to_cart">Thêm vào giỏ hàng</a></div>
+			</li><li class="wc-block-grid__product">
+				<a href="http://localhost/compworld/san-pham/pc-hacom-dung-cad-c011-i9-10900k-32gb-ram-rtx-5000-500gb-ssd-750w/" class="wc-block-grid__product-link">
+					<div class="wc-block-grid__product-image"><img width="324" height="324" src="http://localhost/compworld/wp-content/uploads/2021/11/53724_pc_d___ng_cad_c011.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></div>
+					<div class="wc-block-grid__product-title">PC HACOM Dựng CAD C011 (i9-10900K/32GB RAM/RTX 5000/500GB SSD/750w)</div>
+				</a>
+				
+				<div class="wc-block-grid__product-price price"><span class="woocommerce-Price-amount amount">99.889.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></div>
+				
+				<div class="wp-block-button wc-block-grid__product-add-to-cart"><a href="?add-to-cart=242" aria-label="Thêm &ldquo;PC HACOM Dựng CAD C011 (i9-10900K/32GB RAM/RTX 5000/500GB SSD/750w)&rdquo; vào giỏ hàng" data-quantity="1" data-product_id="242" data-product_sku="" rel="nofollow" class="wp-block-button__link add_to_cart_button ajax_add_to_cart">Thêm vào giỏ hàng</a></div>
+			</li><li class="wc-block-grid__product">
+				<a href="http://localhost/compworld/san-pham/pc-hacom-audio-a003-i7-10700-16gb-ram-500gb-ssd-450w/" class="wc-block-grid__product-link">
+					<div class="wc-block-grid__product-image"><img width="324" height="324" src="http://localhost/compworld/wp-content/uploads/2021/11/54057_pc_audio_a003.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></div>
+					<div class="wc-block-grid__product-title">PC HACOM Audio A003 (i7-10700/16GB RAM/500GB SSD/450W)</div>
+				</a>
+				
+				<div class="wc-block-grid__product-price price"><span class="woocommerce-Price-amount amount">24.239.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></div>
+				
+				<div class="wp-block-button wc-block-grid__product-add-to-cart"><a href="?add-to-cart=240" aria-label="Thêm &ldquo;PC HACOM Audio A003 (i7-10700/16GB RAM/500GB SSD/450W)&rdquo; vào giỏ hàng" data-quantity="1" data-product_id="240" data-product_sku="" rel="nofollow" class="wp-block-button__link add_to_cart_button ajax_add_to_cart">Thêm vào giỏ hàng</a></div>
+			</li><li class="wc-block-grid__product">
+				<a href="http://localhost/compworld/san-pham/pc-hacom-dung-phim-p014-i5-10400-b460-16gb-ram-quadro-p2200-500gb-ssd-450w/" class="wc-block-grid__product-link">
+					<div class="wc-block-grid__product-image"><img width="324" height="324" src="http://localhost/compworld/wp-content/uploads/2021/11/58723_pc_dung_phim_p014.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></div>
+					<div class="wc-block-grid__product-title">PC HACOM Dựng phim P014 (i5-10400/B460/16GB RAM/Quadro P2200/500GB SSD/450w)</div>
+				</a>
+				
+				<div class="wc-block-grid__product-price price"><span class="woocommerce-Price-amount amount">24.949.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></div>
+				
+				<div class="wp-block-button wc-block-grid__product-add-to-cart"><a href="?add-to-cart=238" aria-label="Thêm &ldquo;PC HACOM Dựng phim P014 (i5-10400/B460/16GB RAM/Quadro P2200/500GB SSD/450w)&rdquo; vào giỏ hàng" data-quantity="1" data-product_id="238" data-product_sku="" rel="nofollow" class="wp-block-button__link add_to_cart_button ajax_add_to_cart">Thêm vào giỏ hàng</a></div>
+			</li></ul></div>
+
+
+<h2 class="has-text-align-center">Yêu Thích</h2>
+
+
+<div data-block-name="woocommerce/product-top-rated" data-columns="4" class="wc-block-grid wp-block-product-top-rated wc-block-product-top-rated has-4-columns has-multiple-rows"><ul class="wc-block-grid__products"><li class="wc-block-grid__product">
+				<a href="http://localhost/compworld/san-pham/pc-dell-optiplex-all-in-one-7490-i5-11500-8gb-ram-512gb-ssd-23-8-inch-fhd-wlbt-km-ubuntu/" class="wc-block-grid__product-link">
+					<div class="wc-block-grid__product-image"><img width="324" height="324" src="http://localhost/compworld/wp-content/uploads/2021/11/61132_dell_7490_2.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></div>
+					<div class="wc-block-grid__product-title">PC Dell OptiPlex All in One 7490 (i5-11500/8GB RAM/512GB SSD/23.8 inch FHD/WL+BT/K+M/Ubuntu)</div>
+				</a>
+				<div class="wc-block-grid__product-onsale">
+			<span aria-hidden="true">Khuyến mại</span>
+			<span class="screen-reader-text">Sản phẩm đang giảm giá</span>
+		</div>
+				<div class="wc-block-grid__product-price price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount">34.799.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></del> <ins><span class="woocommerce-Price-amount amount">33.299.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></ins></div>
+				
+				<div class="wp-block-button wc-block-grid__product-add-to-cart"><a href="?add-to-cart=267" aria-label="Thêm &ldquo;PC Dell OptiPlex All in One 7490 (i5-11500/8GB RAM/512GB SSD/23.8 inch FHD/WL+BT/K+M/Ubuntu)&rdquo; vào giỏ hàng" data-quantity="1" data-product_id="267" data-product_sku="" rel="nofollow" class="wp-block-button__link add_to_cart_button ajax_add_to_cart">Thêm vào giỏ hàng</a></div>
+			</li><li class="wc-block-grid__product">
+				<a href="http://localhost/compworld/san-pham/pc-dell-optiplex-all-in-one-7480-i5-10500-8gb-ram-512gb-ssd-23-8-inch-fhd-touch-wlbt-km-ubuntu/" class="wc-block-grid__product-link">
+					<div class="wc-block-grid__product-image"><img width="324" height="324" src="http://localhost/compworld/wp-content/uploads/2021/11/56547_dell_7480.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></div>
+					<div class="wc-block-grid__product-title">PC Dell OptiPlex All in One 7480 (i5-10500/8GB RAM/512GB SSD/23.8 inch FHD/Touch/WL+BT/K+M/Ubuntu)</div>
+				</a>
+				
+				<div class="wc-block-grid__product-price price"><span class="woocommerce-Price-amount amount">28.989.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></div>
+				
+				<div class="wp-block-button wc-block-grid__product-add-to-cart"><a href="?add-to-cart=265" aria-label="Thêm &ldquo;PC Dell OptiPlex All in One 7480 (i5-10500/8GB RAM/512GB SSD/23.8 inch FHD/Touch/WL+BT/K+M/Ubuntu)&rdquo; vào giỏ hàng" data-quantity="1" data-product_id="265" data-product_sku="" rel="nofollow" class="wp-block-button__link add_to_cart_button ajax_add_to_cart">Thêm vào giỏ hàng</a></div>
+			</li><li class="wc-block-grid__product">
+				<a href="http://localhost/compworld/san-pham/pc-dell-optiplex-3080-mt-i5-10500-4gb-ram-1tb-hdd-dvdrw-km-fedora-42ot380001/" class="wc-block-grid__product-link">
+					<div class="wc-block-grid__product-image"><img width="324" height="324" src="http://localhost/compworld/wp-content/uploads/2021/11/58367_56905_pc_dell_optiplex_3080_mt_micro_tower.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></div>
+					<div class="wc-block-grid__product-title">PC Dell OptiPlex 3080 MT (i5-10500/4GB RAM/1TB HDD/DVDRW/K+M/Fedora) (42OT380001)</div>
+				</a>
+				
+				<div class="wc-block-grid__product-price price"><span class="woocommerce-Price-amount amount">12.999.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></div>
+				
+				<div class="wp-block-button wc-block-grid__product-add-to-cart"><a href="?add-to-cart=263" aria-label="Thêm &ldquo;PC Dell OptiPlex 3080 MT (i5-10500/4GB RAM/1TB HDD/DVDRW/K+M/Fedora) (42OT380001)&rdquo; vào giỏ hàng" data-quantity="1" data-product_id="263" data-product_sku="" rel="nofollow" class="wp-block-button__link add_to_cart_button ajax_add_to_cart">Thêm vào giỏ hàng</a></div>
+			</li><li class="wc-block-grid__product">
+				<a href="http://localhost/compworld/san-pham/pc-dell-optiplex-3080mt-i3-10100-4gb-ram-1tb-hdd-dvdrw-km-fedora-3080mt-i310100-4g1tb/" class="wc-block-grid__product-link">
+					<div class="wc-block-grid__product-image"><img width="324" height="324" src="http://localhost/compworld/wp-content/uploads/2021/11/56904_pc_dell_optiplex_3080_mt_micro_tower.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></div>
+					<div class="wc-block-grid__product-title">PC Dell OptiPlex 3080MT (i3-10100/4GB RAM/1TB HDD/DVDRW/K+M/Fedora) (3080MT-i310100-4G1TB)</div>
+				</a>
+				<div class="wc-block-grid__product-onsale">
+			<span aria-hidden="true">Khuyến mại</span>
+			<span class="screen-reader-text">Sản phẩm đang giảm giá</span>
+		</div>
+				<div class="wc-block-grid__product-price price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount">9.799.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></del> <ins><span class="woocommerce-Price-amount amount">9.399.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></ins></div>
+				
+				<div class="wp-block-button wc-block-grid__product-add-to-cart"><a href="?add-to-cart=261" aria-label="Thêm &ldquo;PC Dell OptiPlex 3080MT (i3-10100/4GB RAM/1TB HDD/DVDRW/K+M/Fedora) (3080MT-i310100-4G1TB)&rdquo; vào giỏ hàng" data-quantity="1" data-product_id="261" data-product_sku="" rel="nofollow" class="wp-block-button__link add_to_cart_button ajax_add_to_cart">Thêm vào giỏ hàng</a></div>
+			</li><li class="wc-block-grid__product">
+				<a href="http://localhost/compworld/san-pham/may-tram-asus-pro-e800-g4-barebone-c621-dvd-rw-2000w-platinum/" class="wc-block-grid__product-link">
+					<div class="wc-block-grid__product-image"><img width="324" height="324" src="http://localhost/compworld/wp-content/uploads/2021/11/54521_pro_e800_g4_004.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></div>
+					<div class="wc-block-grid__product-title">Máy trạm Asus Pro E800 G4 (Barebone / C621 / DVD-RW / 2000W Platinum)</div>
+				</a>
+				
+				<div class="wc-block-grid__product-price price"><span class="woocommerce-Price-amount amount">70.299.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></div>
+				
+				<div class="wp-block-button wc-block-grid__product-add-to-cart"><a href="?add-to-cart=256" aria-label="Thêm &ldquo;Máy trạm Asus Pro E800 G4 (Barebone / C621 / DVD-RW / 2000W Platinum)&rdquo; vào giỏ hàng" data-quantity="1" data-product_id="256" data-product_sku="" rel="nofollow" class="wp-block-button__link add_to_cart_button ajax_add_to_cart">Thêm vào giỏ hàng</a></div>
+			</li><li class="wc-block-grid__product">
+				<a href="http://localhost/compworld/san-pham/may-tram-asus-e900-g4-barebone-c621-dvd-rw-2000w-titanium-redundant-power-11/" class="wc-block-grid__product-link">
+					<div class="wc-block-grid__product-image"><img width="324" height="324" src="http://localhost/compworld/wp-content/uploads/2021/11/54523_asus_e900_g4_004.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></div>
+					<div class="wc-block-grid__product-title">Máy trạm Asus E900 G4 (Barebone / C621 / DVD-RW / 2000W TITANIUM Redundant Power (1+1))</div>
+				</a>
+				
+				<div class="wc-block-grid__product-price price"><span class="woocommerce-Price-amount amount">93.929.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></div>
+				
+				<div class="wp-block-button wc-block-grid__product-add-to-cart"><a href="?add-to-cart=251" aria-label="Thêm &ldquo;Máy trạm Asus E900 G4 (Barebone / C621 / DVD-RW / 2000W TITANIUM Redundant Power (1+1))&rdquo; vào giỏ hàng" data-quantity="1" data-product_id="251" data-product_sku="" rel="nofollow" class="wp-block-button__link add_to_cart_button ajax_add_to_cart">Thêm vào giỏ hàng</a></div>
+			</li><li class="wc-block-grid__product">
+				<a href="http://localhost/compworld/san-pham/pc-hacom-render-r010-dual-e5-2680v4-c612-32gb-ram-240gb-ssd-700w/" class="wc-block-grid__product-link">
+					<div class="wc-block-grid__product-image"><img width="324" height="324" src="http://localhost/compworld/wp-content/uploads/2021/11/58720_pc_render_r010.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></div>
+					<div class="wc-block-grid__product-title">PC HACOM Render R010 (Dual E5-2680v4/C612/32GB RAM/240GB SSD/700W)</div>
+				</a>
+				
+				<div class="wc-block-grid__product-price price"><span class="woocommerce-Price-amount amount">31.109.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></div>
+				
+				<div class="wp-block-button wc-block-grid__product-add-to-cart"><a href="?add-to-cart=249" aria-label="Thêm &ldquo;PC HACOM Render R010 (Dual E5-2680v4/C612/32GB RAM/240GB SSD/700W)&rdquo; vào giỏ hàng" data-quantity="1" data-product_id="249" data-product_sku="" rel="nofollow" class="wp-block-button__link add_to_cart_button ajax_add_to_cart">Thêm vào giỏ hàng</a></div>
+			</li><li class="wc-block-grid__product">
+				<a href="http://localhost/compworld/san-pham/pc-hacom-dung-cad-c010-i9-10900k-32gb-ram-rtx-4000-500gb-ssd-750w/" class="wc-block-grid__product-link">
+					<div class="wc-block-grid__product-image"><img width="324" height="324" src="http://localhost/compworld/wp-content/uploads/2021/11/53723_pc_d___ng_cad_c010.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></div>
+					<div class="wc-block-grid__product-title">PC HACOM Dựng CAD C010 (i9-10900K/32GB RAM/RTX 4000/500GB SSD/750w)</div>
+				</a>
+				
+				<div class="wc-block-grid__product-price price"><span class="woocommerce-Price-amount amount">62.019.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></div>
+				
+				<div class="wp-block-button wc-block-grid__product-add-to-cart"><a href="?add-to-cart=247" aria-label="Thêm &ldquo;PC HACOM Dựng CAD C010 (i9-10900K/32GB RAM/RTX 4000/500GB SSD/750w)&rdquo; vào giỏ hàng" data-quantity="1" data-product_id="247" data-product_sku="" rel="nofollow" class="wp-block-button__link add_to_cart_button ajax_add_to_cart">Thêm vào giỏ hàng</a></div>
+			</li><li class="wc-block-grid__product">
+				<a href="http://localhost/compworld/san-pham/pc-hacom-dung-cad-c033-i3-10105f-h410-8gb-ram-240gb-ssd-quadro-p400-350w/" class="wc-block-grid__product-link">
+					<div class="wc-block-grid__product-image"><img width="324" height="321" src="http://localhost/compworld/wp-content/uploads/2021/11/59704_pcws_cad_c033.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></div>
+					<div class="wc-block-grid__product-title">PC HACOM Dựng CAD C033 (i3-10105F/H410/8GB RAM/240GB SSD/Quadro P400/350W)</div>
+				</a>
+				
+				<div class="wc-block-grid__product-price price"><span class="woocommerce-Price-amount amount">10.199.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></div>
+				
+				<div class="wp-block-button wc-block-grid__product-add-to-cart"><a href="?add-to-cart=244" aria-label="Thêm &ldquo;PC HACOM Dựng CAD C033 (i3-10105F/H410/8GB RAM/240GB SSD/Quadro P400/350W)&rdquo; vào giỏ hàng" data-quantity="1" data-product_id="244" data-product_sku="" rel="nofollow" class="wp-block-button__link add_to_cart_button ajax_add_to_cart">Thêm vào giỏ hàng</a></div>
+			</li><li class="wc-block-grid__product">
+				<a href="http://localhost/compworld/san-pham/pc-hacom-dung-cad-c011-i9-10900k-32gb-ram-rtx-5000-500gb-ssd-750w/" class="wc-block-grid__product-link">
+					<div class="wc-block-grid__product-image"><img width="324" height="324" src="http://localhost/compworld/wp-content/uploads/2021/11/53724_pc_d___ng_cad_c011.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></div>
+					<div class="wc-block-grid__product-title">PC HACOM Dựng CAD C011 (i9-10900K/32GB RAM/RTX 5000/500GB SSD/750w)</div>
+				</a>
+				
+				<div class="wc-block-grid__product-price price"><span class="woocommerce-Price-amount amount">99.889.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></div>
+				
+				<div class="wp-block-button wc-block-grid__product-add-to-cart"><a href="?add-to-cart=242" aria-label="Thêm &ldquo;PC HACOM Dựng CAD C011 (i9-10900K/32GB RAM/RTX 5000/500GB SSD/750w)&rdquo; vào giỏ hàng" data-quantity="1" data-product_id="242" data-product_sku="" rel="nofollow" class="wp-block-button__link add_to_cart_button ajax_add_to_cart">Thêm vào giỏ hàng</a></div>
+			</li><li class="wc-block-grid__product">
+				<a href="http://localhost/compworld/san-pham/pc-hacom-audio-a003-i7-10700-16gb-ram-500gb-ssd-450w/" class="wc-block-grid__product-link">
+					<div class="wc-block-grid__product-image"><img width="324" height="324" src="http://localhost/compworld/wp-content/uploads/2021/11/54057_pc_audio_a003.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></div>
+					<div class="wc-block-grid__product-title">PC HACOM Audio A003 (i7-10700/16GB RAM/500GB SSD/450W)</div>
+				</a>
+				
+				<div class="wc-block-grid__product-price price"><span class="woocommerce-Price-amount amount">24.239.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></div>
+				
+				<div class="wp-block-button wc-block-grid__product-add-to-cart"><a href="?add-to-cart=240" aria-label="Thêm &ldquo;PC HACOM Audio A003 (i7-10700/16GB RAM/500GB SSD/450W)&rdquo; vào giỏ hàng" data-quantity="1" data-product_id="240" data-product_sku="" rel="nofollow" class="wp-block-button__link add_to_cart_button ajax_add_to_cart">Thêm vào giỏ hàng</a></div>
+			</li><li class="wc-block-grid__product">
+				<a href="http://localhost/compworld/san-pham/pc-hacom-dung-phim-p014-i5-10400-b460-16gb-ram-quadro-p2200-500gb-ssd-450w/" class="wc-block-grid__product-link">
+					<div class="wc-block-grid__product-image"><img width="324" height="324" src="http://localhost/compworld/wp-content/uploads/2021/11/58723_pc_dung_phim_p014.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></div>
+					<div class="wc-block-grid__product-title">PC HACOM Dựng phim P014 (i5-10400/B460/16GB RAM/Quadro P2200/500GB SSD/450w)</div>
+				</a>
+				
+				<div class="wc-block-grid__product-price price"><span class="woocommerce-Price-amount amount">24.949.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></div>
+				
+				<div class="wp-block-button wc-block-grid__product-add-to-cart"><a href="?add-to-cart=238" aria-label="Thêm &ldquo;PC HACOM Dựng phim P014 (i5-10400/B460/16GB RAM/Quadro P2200/500GB SSD/450w)&rdquo; vào giỏ hàng" data-quantity="1" data-product_id="238" data-product_sku="" rel="nofollow" class="wp-block-button__link add_to_cart_button ajax_add_to_cart">Thêm vào giỏ hàng</a></div>
+			</li></ul></div>
+
+
+<h2 class="has-text-align-center">Siêu Giảm Giá</h2>
+
+
+<div data-block-name="woocommerce/product-on-sale" data-columns="4" class="wc-block-grid wp-block-product-on-sale wc-block-product-on-sale has-4-columns has-multiple-rows"><ul class="wc-block-grid__products"><li class="wc-block-grid__product">
+				<a href="http://localhost/compworld/san-pham/pc-dell-optiplex-all-in-one-7490-i5-11500-8gb-ram-512gb-ssd-23-8-inch-fhd-wlbt-km-ubuntu/" class="wc-block-grid__product-link">
+					<div class="wc-block-grid__product-image"><img width="324" height="324" src="http://localhost/compworld/wp-content/uploads/2021/11/61132_dell_7490_2.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></div>
+					<div class="wc-block-grid__product-title">PC Dell OptiPlex All in One 7490 (i5-11500/8GB RAM/512GB SSD/23.8 inch FHD/WL+BT/K+M/Ubuntu)</div>
+				</a>
+				<div class="wc-block-grid__product-onsale">
+			<span aria-hidden="true">Khuyến mại</span>
+			<span class="screen-reader-text">Sản phẩm đang giảm giá</span>
+		</div>
+				<div class="wc-block-grid__product-price price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount">34.799.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></del> <ins><span class="woocommerce-Price-amount amount">33.299.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></ins></div>
+				
+				<div class="wp-block-button wc-block-grid__product-add-to-cart"><a href="?add-to-cart=267" aria-label="Thêm &ldquo;PC Dell OptiPlex All in One 7490 (i5-11500/8GB RAM/512GB SSD/23.8 inch FHD/WL+BT/K+M/Ubuntu)&rdquo; vào giỏ hàng" data-quantity="1" data-product_id="267" data-product_sku="" rel="nofollow" class="wp-block-button__link add_to_cart_button ajax_add_to_cart">Thêm vào giỏ hàng</a></div>
+			</li><li class="wc-block-grid__product">
+				<a href="http://localhost/compworld/san-pham/pc-dell-optiplex-3080mt-i3-10100-4gb-ram-1tb-hdd-dvdrw-km-fedora-3080mt-i310100-4g1tb/" class="wc-block-grid__product-link">
+					<div class="wc-block-grid__product-image"><img width="324" height="324" src="http://localhost/compworld/wp-content/uploads/2021/11/56904_pc_dell_optiplex_3080_mt_micro_tower.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></div>
+					<div class="wc-block-grid__product-title">PC Dell OptiPlex 3080MT (i3-10100/4GB RAM/1TB HDD/DVDRW/K+M/Fedora) (3080MT-i310100-4G1TB)</div>
+				</a>
+				<div class="wc-block-grid__product-onsale">
+			<span aria-hidden="true">Khuyến mại</span>
+			<span class="screen-reader-text">Sản phẩm đang giảm giá</span>
+		</div>
+				<div class="wc-block-grid__product-price price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount">9.799.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></del> <ins><span class="woocommerce-Price-amount amount">9.399.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></ins></div>
+				
+				<div class="wp-block-button wc-block-grid__product-add-to-cart"><a href="?add-to-cart=261" aria-label="Thêm &ldquo;PC Dell OptiPlex 3080MT (i3-10100/4GB RAM/1TB HDD/DVDRW/K+M/Fedora) (3080MT-i310100-4G1TB)&rdquo; vào giỏ hàng" data-quantity="1" data-product_id="261" data-product_sku="" rel="nofollow" class="wp-block-button__link add_to_cart_button ajax_add_to_cart">Thêm vào giỏ hàng</a></div>
+			</li><li class="wc-block-grid__product">
+				<a href="http://localhost/compworld/san-pham/pc-hacom-dung-phim-p015-w-1270p-w480-32gb-ram-ecc-rtx-a4000-500gb-ssd-550w/" class="wc-block-grid__product-link">
+					<div class="wc-block-grid__product-image"><img width="324" height="324" src="http://localhost/compworld/wp-content/uploads/2021/11/58724_pc_dung_phim_p015.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></div>
+					<div class="wc-block-grid__product-title">PC HACOM Dựng phim P015 (W-1270P/W480/32GB RAM ECC/RTX A4000/500GB SSD/550w)</div>
+				</a>
+				<div class="wc-block-grid__product-onsale">
+			<span aria-hidden="true">Khuyến mại</span>
+			<span class="screen-reader-text">Sản phẩm đang giảm giá</span>
+		</div>
+				<div class="wc-block-grid__product-price price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount">64.639.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></del> <ins><span class="woocommerce-Price-amount amount">60.399.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></ins></div>
+				
+				<div class="wp-block-button wc-block-grid__product-add-to-cart"><a href="?add-to-cart=234" aria-label="Thêm &ldquo;PC HACOM Dựng phim P015 (W-1270P/W480/32GB RAM ECC/RTX A4000/500GB SSD/550w)&rdquo; vào giỏ hàng" data-quantity="1" data-product_id="234" data-product_sku="" rel="nofollow" class="wp-block-button__link add_to_cart_button ajax_add_to_cart">Thêm vào giỏ hàng</a></div>
+			</li><li class="wc-block-grid__product">
+				<a href="http://localhost/compworld/san-pham/pc-hacom-designer-d029-i9-10900k-z490-64gb-ram-quadro-rtx5000-1tb-ssd-750w/" class="wc-block-grid__product-link">
+					<div class="wc-block-grid__product-image"><img width="324" height="324" src="http://localhost/compworld/wp-content/uploads/2021/11/56114_pc_designer_d029.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></div>
+					<div class="wc-block-grid__product-title">PC HACOM Designer D029 (i9-10900K/Z490/64GB RAM/Quadro RTX5000/1TB SSD/750w)</div>
+				</a>
+				<div class="wc-block-grid__product-onsale">
+			<span aria-hidden="true">Khuyến mại</span>
+			<span class="screen-reader-text">Sản phẩm đang giảm giá</span>
+		</div>
+				<div class="wc-block-grid__product-price price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount">121.409.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></del> <ins><span class="woocommerce-Price-amount amount">107.759.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></ins></div>
+				
+				<div class="wp-block-button wc-block-grid__product-add-to-cart"><a href="?add-to-cart=228" aria-label="Thêm &ldquo;PC HACOM Designer D029 (i9-10900K/Z490/64GB RAM/Quadro RTX5000/1TB SSD/750w)&rdquo; vào giỏ hàng" data-quantity="1" data-product_id="228" data-product_sku="" rel="nofollow" class="wp-block-button__link add_to_cart_button ajax_add_to_cart">Thêm vào giỏ hàng</a></div>
+			</li><li class="wc-block-grid__product">
+				<a href="http://localhost/compworld/san-pham/pc-hacom-designer-d028-i9-10900-z490-32gb-ram-quadro-p2200-500gb-ssd-500wpc-hacom-designer-d028/" class="wc-block-grid__product-link">
+					<div class="wc-block-grid__product-image"><img width="324" height="324" src="http://localhost/compworld/wp-content/uploads/2021/11/56113_pc_designer_d028_1.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></div>
+					<div class="wc-block-grid__product-title">PC HACOM Designer D028 (i9-10900/Z490/32GB RAM/Quadro P2200/500GB SSD/500w)PC HACOM Designer D028</div>
+				</a>
+				<div class="wc-block-grid__product-onsale">
+			<span aria-hidden="true">Khuyến mại</span>
+			<span class="screen-reader-text">Sản phẩm đang giảm giá</span>
+		</div>
+				<div class="wc-block-grid__product-price price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount">48.689.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></del> <ins><span class="woocommerce-Price-amount amount">42.689.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></ins></div>
+				
+				<div class="wp-block-button wc-block-grid__product-add-to-cart"><a href="?add-to-cart=226" aria-label="Thêm &ldquo;PC HACOM Designer D028 (i9-10900/Z490/32GB RAM/Quadro P2200/500GB SSD/500w)PC HACOM Designer D028&rdquo; vào giỏ hàng" data-quantity="1" data-product_id="226" data-product_sku="" rel="nofollow" class="wp-block-button__link add_to_cart_button ajax_add_to_cart">Thêm vào giỏ hàng</a></div>
+			</li><li class="wc-block-grid__product">
+				<a href="http://localhost/compworld/san-pham/laptop-gigabyte-gaming-g5-md-5-51s1123sh-i5-11400h-16gb-ram-512gb-ssd-rtx3050ti-4g-15-6-inch-fhd-144hz-win-10-den/" class="wc-block-grid__product-link">
+					<div class="wc-block-grid__product-image"><img width="324" height="324" src="http://localhost/compworld/wp-content/uploads/2021/11/59688_laptop_gigabyte_gaming_g5_md_5_51s1223sh_den_202_5.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></div>
+					<div class="wc-block-grid__product-title">Laptop Gigabyte Gaming G5 (MD-5 51S1123SH) (i5 11400H /16GB Ram/512GB SSD/RTX3050Ti 4G/15.6 inch FHD 144Hz/Win 10/Đen)</div>
+				</a>
+				<div class="wc-block-grid__product-onsale">
+			<span aria-hidden="true">Khuyến mại</span>
+			<span class="screen-reader-text">Sản phẩm đang giảm giá</span>
+		</div>
+				<div class="wc-block-grid__product-price price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount">32.309.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></del> <ins><span class="woocommerce-Price-amount amount">29.389.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></ins></div>
+				
+				<div class="wp-block-button wc-block-grid__product-add-to-cart"><a href="?add-to-cart=181" aria-label="Thêm &ldquo;Laptop Gigabyte Gaming G5 (MD-5 51S1123SH) (i5 11400H /16GB Ram/512GB SSD/RTX3050Ti 4G/15.6 inch FHD 144Hz/Win 10/Đen)&rdquo; vào giỏ hàng" data-quantity="1" data-product_id="181" data-product_sku="" rel="nofollow" class="wp-block-button__link add_to_cart_button ajax_add_to_cart">Thêm vào giỏ hàng</a></div>
+			</li><li class="wc-block-grid__product">
+				<a href="http://localhost/compworld/san-pham/laptop-avita-liber-v14g-ns14g8vng561-pwb-i5-10210u-8gb-ram-512gb-ssd-14-0-inch-fhd-win10-trang/" class="wc-block-grid__product-link">
+					<div class="wc-block-grid__product-image"><img width="324" height="324" src="http://localhost/compworld/wp-content/uploads/2021/11/57609_liber_v14g__5_.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></div>
+					<div class="wc-block-grid__product-title">Laptop AVITA LIBER V14G (NS14G8VNG561-PWB) (i5 10210U/8GB RAM/512GB SSD/14.0 inch FHD/Win10/Trắng)</div>
+				</a>
+				<div class="wc-block-grid__product-onsale">
+			<span aria-hidden="true">Khuyến mại</span>
+			<span class="screen-reader-text">Sản phẩm đang giảm giá</span>
+		</div>
+				<div class="wc-block-grid__product-price price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount">17.169.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></del> <ins><span class="woocommerce-Price-amount amount">16.659.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></ins></div>
+				
+				<div class="wp-block-button wc-block-grid__product-add-to-cart"><a href="?add-to-cart=165" aria-label="Thêm &ldquo;Laptop AVITA LIBER V14G (NS14G8VNG561-PWB) (i5 10210U/8GB RAM/512GB SSD/14.0 inch FHD/Win10/Trắng)&rdquo; vào giỏ hàng" data-quantity="1" data-product_id="165" data-product_sku="" rel="nofollow" class="wp-block-button__link add_to_cart_button ajax_add_to_cart">Thêm vào giỏ hàng</a></div>
+			</li><li class="wc-block-grid__product">
+				<a href="http://localhost/compworld/san-pham/laptop-avita-liber-v14f-ns14f8vnf561-abb-i5-10210u-8gb-ram-512gb-ssd-14-0-inch-fhd-win10-xanh/" class="wc-block-grid__product-link">
+					<div class="wc-block-grid__product-image"><img width="324" height="324" src="http://localhost/compworld/wp-content/uploads/2021/11/57169__liber_v14__8_.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></div>
+					<div class="wc-block-grid__product-title">Laptop AVITA LIBER V14F (NS14F8VNF561-ABB) (i5 10210U/8GB RAM/512GB SSD/14.0 inch FHD/Win10/Xanh)</div>
+				</a>
+				<div class="wc-block-grid__product-onsale">
+			<span aria-hidden="true">Khuyến mại</span>
+			<span class="screen-reader-text">Sản phẩm đang giảm giá</span>
+		</div>
+				<div class="wc-block-grid__product-price price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount">17.169.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></del> <ins><span class="woocommerce-Price-amount amount">16.659.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></ins></div>
+				
+				<div class="wp-block-button wc-block-grid__product-add-to-cart"><a href="?add-to-cart=156" aria-label="Thêm &ldquo;Laptop AVITA LIBER V14F (NS14F8VNF561-ABB) (i5 10210U/8GB RAM/512GB SSD/14.0 inch FHD/Win10/Xanh)&rdquo; vào giỏ hàng" data-quantity="1" data-product_id="156" data-product_sku="" rel="nofollow" class="wp-block-button__link add_to_cart_button ajax_add_to_cart">Thêm vào giỏ hàng</a></div>
+			</li><li class="wc-block-grid__product">
+				<a href="http://localhost/compworld/san-pham/laptop-avita-liber-v14a-ns14a8vnf561-sgb-i5-10210u-8gb-ram-512gb-ssd-14-0-inch-fhd-win10-xam/" class="wc-block-grid__product-link">
+					<div class="wc-block-grid__product-image"><img width="324" height="324" src="http://localhost/compworld/wp-content/uploads/2021/11/57166_avita_liber_v__5_.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></div>
+					<div class="wc-block-grid__product-title">Laptop AVITA LIBER V14A (NS14A8VNF561-SGB) (i5 10210U/8GB RAM/512GB SSD/14.0 inch FHD/Win10/Xám)</div>
+				</a>
+				<div class="wc-block-grid__product-onsale">
+			<span aria-hidden="true">Khuyến mại</span>
+			<span class="screen-reader-text">Sản phẩm đang giảm giá</span>
+		</div>
+				<div class="wc-block-grid__product-price price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount">17.169.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></del> <ins><span class="woocommerce-Price-amount amount">16.659.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></ins></div>
+				
+				<div class="wp-block-button wc-block-grid__product-add-to-cart"><a href="?add-to-cart=150" aria-label="Thêm &ldquo;Laptop AVITA LIBER V14A (NS14A8VNF561-SGB) (i5 10210U/8GB RAM/512GB SSD/14.0 inch FHD/Win10/Xám)&rdquo; vào giỏ hàng" data-quantity="1" data-product_id="150" data-product_sku="" rel="nofollow" class="wp-block-button__link add_to_cart_button ajax_add_to_cart">Thêm vào giỏ hàng</a></div>
+			</li><li class="wc-block-grid__product">
+				<a href="http://localhost/compworld/san-pham/laptop-avita-liber-v14i-ns14i8vnr571-bpb-i7-10510u-8gb-ram-1tb-ssd-14-0-inch-fhd-win10-hong/" class="wc-block-grid__product-link">
+					<div class="wc-block-grid__product-image"><img width="324" height="324" src="http://localhost/compworld/wp-content/uploads/2021/11/57612_liber_v14__5_.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></div>
+					<div class="wc-block-grid__product-title">Laptop AVITA LIBER V14I (NS14I8VNR571-BPB) (i7 10510U/8GB RAM/1TB SSD/14.0 inch FHD/Win10/Hồng)</div>
+				</a>
+				<div class="wc-block-grid__product-onsale">
+			<span aria-hidden="true">Khuyến mại</span>
+			<span class="screen-reader-text">Sản phẩm đang giảm giá</span>
+		</div>
+				<div class="wc-block-grid__product-price price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount">22.219.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></del> <ins><span class="woocommerce-Price-amount amount">21.209.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></ins></div>
+				
+				<div class="wp-block-button wc-block-grid__product-add-to-cart"><a href="?add-to-cart=144" aria-label="Thêm &ldquo;Laptop AVITA LIBER V14I (NS14I8VNR571-BPB) (i7 10510U/8GB RAM/1TB SSD/14.0 inch FHD/Win10/Hồng)&rdquo; vào giỏ hàng" data-quantity="1" data-product_id="144" data-product_sku="" rel="nofollow" class="wp-block-button__link add_to_cart_button ajax_add_to_cart">Thêm vào giỏ hàng</a></div>
+			</li><li class="wc-block-grid__product">
+				<a href="http://localhost/compworld/san-pham/laptop-avita-liber-v14b-ns14b8vnr571-cgb-i7-10510u-8gb-ram-1tb-ssd-14-0-inch-fhd-win10-vang/" class="wc-block-grid__product-link">
+					<div class="wc-block-grid__product-image"><img width="324" height="324" src="http://localhost/compworld/wp-content/uploads/2021/11/57611_avita_liber_v__5_.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></div>
+					<div class="wc-block-grid__product-title">Laptop AVITA LIBER V14B (NS14B8VNR571-CGB) (i7 10510U/8GB RAM/1TB SSD/14.0 inch FHD/Win10/Vàng)</div>
+				</a>
+				<div class="wc-block-grid__product-onsale">
+			<span aria-hidden="true">Khuyến mại</span>
+			<span class="screen-reader-text">Sản phẩm đang giảm giá</span>
+		</div>
+				<div class="wc-block-grid__product-price price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount">22.219.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></del> <ins><span class="woocommerce-Price-amount amount">19.999.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></ins></div>
+				
+				<div class="wp-block-button wc-block-grid__product-add-to-cart"><a href="?add-to-cart=138" aria-label="Thêm &ldquo;Laptop AVITA LIBER V14B (NS14B8VNR571-CGB) (i7 10510U/8GB RAM/1TB SSD/14.0 inch FHD/Win10/Vàng)&rdquo; vào giỏ hàng" data-quantity="1" data-product_id="138" data-product_sku="" rel="nofollow" class="wp-block-button__link add_to_cart_button ajax_add_to_cart">Thêm vào giỏ hàng</a></div>
+			</li><li class="wc-block-grid__product">
+				<a href="http://localhost/compworld/san-pham/apple-macbook-pro-13-touchbar-mwp82-i5-2-0ghz-16gb-ram-1tb-ssd-13-3inch-ips-mac-os-bac/" class="wc-block-grid__product-link">
+					<div class="wc-block-grid__product-image"><img width="324" height="319" src="http://localhost/compworld/wp-content/uploads/2021/11/53575_apple_macbook_pro_13_touchbar_mwp82_5.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></div>
+					<div class="wc-block-grid__product-title">Apple Macbook Pro 13 Touchbar (MWP82) (i5 2.0Ghz/16GB RAM/1TB SSD/13.3inch IPS/Mac OS/Bạc)</div>
+				</a>
+				<div class="wc-block-grid__product-onsale">
+			<span aria-hidden="true">Khuyến mại</span>
+			<span class="screen-reader-text">Sản phẩm đang giảm giá</span>
+		</div>
+				<div class="wc-block-grid__product-price price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount">55.539.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></del> <ins><span class="woocommerce-Price-amount amount">54.529.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></ins></div>
+				
+				<div class="wp-block-button wc-block-grid__product-add-to-cart"><a href="?add-to-cart=131" aria-label="Thêm &ldquo;Apple Macbook Pro 13 Touchbar (MWP82) (i5 2.0Ghz/16GB RAM/1TB SSD/13.3inch IPS/Mac OS/Bạc)&rdquo; vào giỏ hàng" data-quantity="1" data-product_id="131" data-product_sku="" rel="nofollow" class="wp-block-button__link add_to_cart_button ajax_add_to_cart">Thêm vào giỏ hàng</a></div>
+			</li></ul></div>
+
+
+<h2 class="has-text-align-center">Bán Siêu Chạy</h2>
+
+
+<div data-block-name="woocommerce/product-best-sellers" data-columns="4" class="wc-block-grid wp-block-product-best-sellers wc-block-product-best-sellers has-4-columns has-multiple-rows"><ul class="wc-block-grid__products"><li class="wc-block-grid__product">
+				<a href="http://localhost/compworld/san-pham/apple-macbook-pro-13-mpxt2sa-ai5-7360u-8gb-ram-256gb-ssd-13-3-inch-mac-os-xam/" class="wc-block-grid__product-link">
+					<div class="wc-block-grid__product-image"><img width="324" height="319" src="http://localhost/compworld/wp-content/uploads/2021/11/38187_macbook_pro_13_mpxt2saa__5_.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></div>
+					<div class="wc-block-grid__product-title">Apple Macbook Pro 13 MPXT2SA/A(i5-7360U/8GB RAM/256GB SSD/13.3 inch/Mac OS/Xám)</div>
+				</a>
+				
+				<div class="wc-block-grid__product-price price"><span class="woocommerce-Price-amount amount">32.399.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></div>
+				
+				<div class="wp-block-button wc-block-grid__product-add-to-cart"><a href="?add-to-cart=125" aria-label="Thêm &ldquo;Apple Macbook Pro 13 MPXT2SA/A(i5-7360U/8GB RAM/256GB SSD/13.3 inch/Mac OS/Xám)&rdquo; vào giỏ hàng" data-quantity="1" data-product_id="125" data-product_sku="" rel="nofollow" class="wp-block-button__link add_to_cart_button ajax_add_to_cart">Thêm vào giỏ hàng</a></div>
+			</li><li class="wc-block-grid__product">
+				<a href="http://localhost/compworld/san-pham/apple-macbook-pro-13-touchbar-mwp82-i5-2-0ghz-16gb-ram-1tb-ssd-13-3inch-ips-mac-os-bac/" class="wc-block-grid__product-link">
+					<div class="wc-block-grid__product-image"><img width="324" height="319" src="http://localhost/compworld/wp-content/uploads/2021/11/53575_apple_macbook_pro_13_touchbar_mwp82_5.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></div>
+					<div class="wc-block-grid__product-title">Apple Macbook Pro 13 Touchbar (MWP82) (i5 2.0Ghz/16GB RAM/1TB SSD/13.3inch IPS/Mac OS/Bạc)</div>
+				</a>
+				<div class="wc-block-grid__product-onsale">
+			<span aria-hidden="true">Khuyến mại</span>
+			<span class="screen-reader-text">Sản phẩm đang giảm giá</span>
+		</div>
+				<div class="wc-block-grid__product-price price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount">55.539.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></del> <ins><span class="woocommerce-Price-amount amount">54.529.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></ins></div>
+				
+				<div class="wp-block-button wc-block-grid__product-add-to-cart"><a href="?add-to-cart=131" aria-label="Thêm &ldquo;Apple Macbook Pro 13 Touchbar (MWP82) (i5 2.0Ghz/16GB RAM/1TB SSD/13.3inch IPS/Mac OS/Bạc)&rdquo; vào giỏ hàng" data-quantity="1" data-product_id="131" data-product_sku="" rel="nofollow" class="wp-block-button__link add_to_cart_button ajax_add_to_cart">Thêm vào giỏ hàng</a></div>
+			</li><li class="wc-block-grid__product">
+				<a href="http://localhost/compworld/san-pham/pc-enthusiast-gaming-limited-003-i9-10900k-z490-64gb-ram-2tb-ssd-6tb-hdd-rtx-2080ti-1200w-tan-aio-asus-ryujin-360-win-10-pro-rgb/" class="wc-block-grid__product-link">
+					<div class="wc-block-grid__product-image"><img width="324" height="324" src="http://localhost/compworld/wp-content/uploads/2021/11/54221_pc_gaming_enthusiast_limited_003.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></div>
+					<div class="wc-block-grid__product-title">PC ENTHUSIAST GAMING LIMITED 003 (I9 10900K/Z490/64GB RAM/2TB SSD/6TB HDD/RTX 2080Ti/1200W/Tản AIO ASUS RYUJIN 360/Win 10 Pro/ RGB)</div>
+				</a>
+				<div class="wc-block-grid__product-onsale">
+			<span aria-hidden="true">Khuyến mại</span>
+			<span class="screen-reader-text">Sản phẩm đang giảm giá</span>
+		</div>
+				<div class="wc-block-grid__product-price price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount">209.999.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></del> <ins><span class="woocommerce-Price-amount amount">207.999.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></ins></div>
+				
+				<div class="wp-block-button wc-block-grid__product-add-to-cart"><a href="?add-to-cart=25" aria-label="Thêm &ldquo;PC ENTHUSIAST GAMING LIMITED 003 (I9 10900K/Z490/64GB RAM/2TB SSD/6TB HDD/RTX 2080Ti/1200W/Tản AIO ASUS RYUJIN 360/Win 10 Pro/ RGB)&rdquo; vào giỏ hàng" data-quantity="1" data-product_id="25" data-product_sku="" rel="nofollow" class="wp-block-button__link add_to_cart_button ajax_add_to_cart">Thêm vào giỏ hàng</a></div>
+			</li><li class="wc-block-grid__product">
+				<a href="http://localhost/compworld/san-pham/may-tram-asus-e900-g4-barebone-c621-dvd-rw-2000w-titanium-redundant-power-11/" class="wc-block-grid__product-link">
+					<div class="wc-block-grid__product-image"><img width="324" height="324" src="http://localhost/compworld/wp-content/uploads/2021/11/54523_asus_e900_g4_004.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></div>
+					<div class="wc-block-grid__product-title">Máy trạm Asus E900 G4 (Barebone / C621 / DVD-RW / 2000W TITANIUM Redundant Power (1+1))</div>
+				</a>
+				
+				<div class="wc-block-grid__product-price price"><span class="woocommerce-Price-amount amount">93.929.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></div>
+				
+				<div class="wp-block-button wc-block-grid__product-add-to-cart"><a href="?add-to-cart=251" aria-label="Thêm &ldquo;Máy trạm Asus E900 G4 (Barebone / C621 / DVD-RW / 2000W TITANIUM Redundant Power (1+1))&rdquo; vào giỏ hàng" data-quantity="1" data-product_id="251" data-product_sku="" rel="nofollow" class="wp-block-button__link add_to_cart_button ajax_add_to_cart">Thêm vào giỏ hàng</a></div>
+			</li><li class="wc-block-grid__product">
+				<a href="http://localhost/compworld/san-pham/pc-hacom-dung-cad-c010-i9-10900k-32gb-ram-rtx-4000-500gb-ssd-750w/" class="wc-block-grid__product-link">
+					<div class="wc-block-grid__product-image"><img width="324" height="324" src="http://localhost/compworld/wp-content/uploads/2021/11/53723_pc_d___ng_cad_c010.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></div>
+					<div class="wc-block-grid__product-title">PC HACOM Dựng CAD C010 (i9-10900K/32GB RAM/RTX 4000/500GB SSD/750w)</div>
+				</a>
+				
+				<div class="wc-block-grid__product-price price"><span class="woocommerce-Price-amount amount">62.019.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></div>
+				
+				<div class="wp-block-button wc-block-grid__product-add-to-cart"><a href="?add-to-cart=247" aria-label="Thêm &ldquo;PC HACOM Dựng CAD C010 (i9-10900K/32GB RAM/RTX 4000/500GB SSD/750w)&rdquo; vào giỏ hàng" data-quantity="1" data-product_id="247" data-product_sku="" rel="nofollow" class="wp-block-button__link add_to_cart_button ajax_add_to_cart">Thêm vào giỏ hàng</a></div>
+			</li><li class="wc-block-grid__product">
+				<a href="http://localhost/compworld/san-pham/pc-hacom-dung-cad-c011-i9-10900k-32gb-ram-rtx-5000-500gb-ssd-750w/" class="wc-block-grid__product-link">
+					<div class="wc-block-grid__product-image"><img width="324" height="324" src="http://localhost/compworld/wp-content/uploads/2021/11/53724_pc_d___ng_cad_c011.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></div>
+					<div class="wc-block-grid__product-title">PC HACOM Dựng CAD C011 (i9-10900K/32GB RAM/RTX 5000/500GB SSD/750w)</div>
+				</a>
+				
+				<div class="wc-block-grid__product-price price"><span class="woocommerce-Price-amount amount">99.889.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></div>
+				
+				<div class="wp-block-button wc-block-grid__product-add-to-cart"><a href="?add-to-cart=242" aria-label="Thêm &ldquo;PC HACOM Dựng CAD C011 (i9-10900K/32GB RAM/RTX 5000/500GB SSD/750w)&rdquo; vào giỏ hàng" data-quantity="1" data-product_id="242" data-product_sku="" rel="nofollow" class="wp-block-button__link add_to_cart_button ajax_add_to_cart">Thêm vào giỏ hàng</a></div>
+			</li><li class="wc-block-grid__product">
+				<a href="http://localhost/compworld/san-pham/pc-hacom-designer-d029-i9-10900k-z490-64gb-ram-quadro-rtx5000-1tb-ssd-750w/" class="wc-block-grid__product-link">
+					<div class="wc-block-grid__product-image"><img width="324" height="324" src="http://localhost/compworld/wp-content/uploads/2021/11/56114_pc_designer_d029.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></div>
+					<div class="wc-block-grid__product-title">PC HACOM Designer D029 (i9-10900K/Z490/64GB RAM/Quadro RTX5000/1TB SSD/750w)</div>
+				</a>
+				<div class="wc-block-grid__product-onsale">
+			<span aria-hidden="true">Khuyến mại</span>
+			<span class="screen-reader-text">Sản phẩm đang giảm giá</span>
+		</div>
+				<div class="wc-block-grid__product-price price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount">121.409.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></del> <ins><span class="woocommerce-Price-amount amount">107.759.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></ins></div>
+				
+				<div class="wp-block-button wc-block-grid__product-add-to-cart"><a href="?add-to-cart=228" aria-label="Thêm &ldquo;PC HACOM Designer D029 (i9-10900K/Z490/64GB RAM/Quadro RTX5000/1TB SSD/750w)&rdquo; vào giỏ hàng" data-quantity="1" data-product_id="228" data-product_sku="" rel="nofollow" class="wp-block-button__link add_to_cart_button ajax_add_to_cart">Thêm vào giỏ hàng</a></div>
+			</li><li class="wc-block-grid__product">
+				<a href="http://localhost/compworld/san-pham/apple-macbook-air-13-z124000de-apple-m1-16gb-ram-256gb-ssd-13-3-inch-ips-mac-os-xam/" class="wc-block-grid__product-link">
+					<div class="wc-block-grid__product-image"><img width="324" height="324" src="http://localhost/compworld/wp-content/uploads/2021/11/58384_mba__4_.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></div>
+					<div class="wc-block-grid__product-title">Apple Macbook Air 13 (Z124000DE) (Apple M1/16GB RAM/256GB SSD/13.3 inch IPS/Mac OS/Xám)</div>
+				</a>
+				<div class="wc-block-grid__product-onsale">
+			<span aria-hidden="true">Khuyến mại</span>
+			<span class="screen-reader-text">Sản phẩm đang giảm giá</span>
+		</div>
+				<div class="wc-block-grid__product-price price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount">34.329.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></del> <ins><span class="woocommerce-Price-amount amount">31.509.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></ins></div>
+				
+				<div class="wp-block-button wc-block-grid__product-add-to-cart"><a href="?add-to-cart=113" aria-label="Thêm &ldquo;Apple Macbook Air 13 (Z124000DE) (Apple M1/16GB RAM/256GB SSD/13.3 inch IPS/Mac OS/Xám)&rdquo; vào giỏ hàng" data-quantity="1" data-product_id="113" data-product_sku="" rel="nofollow" class="wp-block-button__link add_to_cart_button ajax_add_to_cart">Thêm vào giỏ hàng</a></div>
+			</li><li class="wc-block-grid__product">
+				<a href="http://localhost/compworld/san-pham/pc-dell-optiplex-all-in-one-7490-i5-11500-8gb-ram-512gb-ssd-23-8-inch-fhd-wlbt-km-ubuntu/" class="wc-block-grid__product-link">
+					<div class="wc-block-grid__product-image"><img width="324" height="324" src="http://localhost/compworld/wp-content/uploads/2021/11/61132_dell_7490_2.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></div>
+					<div class="wc-block-grid__product-title">PC Dell OptiPlex All in One 7490 (i5-11500/8GB RAM/512GB SSD/23.8 inch FHD/WL+BT/K+M/Ubuntu)</div>
+				</a>
+				<div class="wc-block-grid__product-onsale">
+			<span aria-hidden="true">Khuyến mại</span>
+			<span class="screen-reader-text">Sản phẩm đang giảm giá</span>
+		</div>
+				<div class="wc-block-grid__product-price price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount">34.799.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></del> <ins><span class="woocommerce-Price-amount amount">33.299.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></ins></div>
+				
+				<div class="wp-block-button wc-block-grid__product-add-to-cart"><a href="?add-to-cart=267" aria-label="Thêm &ldquo;PC Dell OptiPlex All in One 7490 (i5-11500/8GB RAM/512GB SSD/23.8 inch FHD/WL+BT/K+M/Ubuntu)&rdquo; vào giỏ hàng" data-quantity="1" data-product_id="267" data-product_sku="" rel="nofollow" class="wp-block-button__link add_to_cart_button ajax_add_to_cart">Thêm vào giỏ hàng</a></div>
+			</li><li class="wc-block-grid__product">
+				<a href="http://localhost/compworld/san-pham/pc-dell-optiplex-all-in-one-7480-i5-10500-8gb-ram-512gb-ssd-23-8-inch-fhd-touch-wlbt-km-ubuntu/" class="wc-block-grid__product-link">
+					<div class="wc-block-grid__product-image"><img width="324" height="324" src="http://localhost/compworld/wp-content/uploads/2021/11/56547_dell_7480.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></div>
+					<div class="wc-block-grid__product-title">PC Dell OptiPlex All in One 7480 (i5-10500/8GB RAM/512GB SSD/23.8 inch FHD/Touch/WL+BT/K+M/Ubuntu)</div>
+				</a>
+				
+				<div class="wc-block-grid__product-price price"><span class="woocommerce-Price-amount amount">28.989.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></div>
+				
+				<div class="wp-block-button wc-block-grid__product-add-to-cart"><a href="?add-to-cart=265" aria-label="Thêm &ldquo;PC Dell OptiPlex All in One 7480 (i5-10500/8GB RAM/512GB SSD/23.8 inch FHD/Touch/WL+BT/K+M/Ubuntu)&rdquo; vào giỏ hàng" data-quantity="1" data-product_id="265" data-product_sku="" rel="nofollow" class="wp-block-button__link add_to_cart_button ajax_add_to_cart">Thêm vào giỏ hàng</a></div>
+			</li><li class="wc-block-grid__product">
+				<a href="http://localhost/compworld/san-pham/pc-dell-optiplex-3080-mt-i5-10500-4gb-ram-1tb-hdd-dvdrw-km-fedora-42ot380001/" class="wc-block-grid__product-link">
+					<div class="wc-block-grid__product-image"><img width="324" height="324" src="http://localhost/compworld/wp-content/uploads/2021/11/58367_56905_pc_dell_optiplex_3080_mt_micro_tower.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></div>
+					<div class="wc-block-grid__product-title">PC Dell OptiPlex 3080 MT (i5-10500/4GB RAM/1TB HDD/DVDRW/K+M/Fedora) (42OT380001)</div>
+				</a>
+				
+				<div class="wc-block-grid__product-price price"><span class="woocommerce-Price-amount amount">12.999.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></div>
+				
+				<div class="wp-block-button wc-block-grid__product-add-to-cart"><a href="?add-to-cart=263" aria-label="Thêm &ldquo;PC Dell OptiPlex 3080 MT (i5-10500/4GB RAM/1TB HDD/DVDRW/K+M/Fedora) (42OT380001)&rdquo; vào giỏ hàng" data-quantity="1" data-product_id="263" data-product_sku="" rel="nofollow" class="wp-block-button__link add_to_cart_button ajax_add_to_cart">Thêm vào giỏ hàng</a></div>
+			</li><li class="wc-block-grid__product">
+				<a href="http://localhost/compworld/san-pham/pc-dell-optiplex-3080mt-i3-10100-4gb-ram-1tb-hdd-dvdrw-km-fedora-3080mt-i310100-4g1tb/" class="wc-block-grid__product-link">
+					<div class="wc-block-grid__product-image"><img width="324" height="324" src="http://localhost/compworld/wp-content/uploads/2021/11/56904_pc_dell_optiplex_3080_mt_micro_tower.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></div>
+					<div class="wc-block-grid__product-title">PC Dell OptiPlex 3080MT (i3-10100/4GB RAM/1TB HDD/DVDRW/K+M/Fedora) (3080MT-i310100-4G1TB)</div>
+				</a>
+				<div class="wc-block-grid__product-onsale">
+			<span aria-hidden="true">Khuyến mại</span>
+			<span class="screen-reader-text">Sản phẩm đang giảm giá</span>
+		</div>
+				<div class="wc-block-grid__product-price price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount">9.799.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></del> <ins><span class="woocommerce-Price-amount amount">9.399.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></ins></div>
+				
+				<div class="wp-block-button wc-block-grid__product-add-to-cart"><a href="?add-to-cart=261" aria-label="Thêm &ldquo;PC Dell OptiPlex 3080MT (i3-10100/4GB RAM/1TB HDD/DVDRW/K+M/Fedora) (3080MT-i310100-4G1TB)&rdquo; vào giỏ hàng" data-quantity="1" data-product_id="261" data-product_sku="" rel="nofollow" class="wp-block-button__link add_to_cart_button ajax_add_to_cart">Thêm vào giỏ hàng</a></div>
+			</li></ul></div>					</div><!-- .entry-content -->
+			</div>
+</div><!-- #post-## -->
+<section class="storefront-product-section storefront-product-categories" aria-label="Danh mục sản phẩm"><h2 class="section-title">Danh mục sản phẩm</h2><div class="woocommerce columns-3"><ul class="products columns-3">
+<li class="product-category product first">
+	<a href="http://localhost/compworld/danh-muc-san-pham/pc-gaming/"><img src="http://localhost/compworld/wp-content/uploads/2021/11/pc-gaming.png" alt="PC Gaming" width="324" height="324" />		<h2 class="woocommerce-loop-category__title">
+			PC Gaming <mark class="count">(4)</mark>		</h2>
+		</a></li>
+<li class="product-category product">
+	<a href="http://localhost/compworld/danh-muc-san-pham/laptop/"><img src="http://localhost/compworld/wp-content/uploads/2021/11/laptopicon.png" alt="Laptop, Máy Tính Xách Tay" width="324" height="324" />		<h2 class="woocommerce-loop-category__title">
+			Laptop, Máy Tính Xách Tay <mark class="count">(31)</mark>		</h2>
+		</a></li>
+<li class="product-category product last">
+	<a href="http://localhost/compworld/danh-muc-san-pham/pc-server/"><img src="http://localhost/compworld/wp-content/uploads/2021/11/pc-server.png" alt="PC Đồ Họa, Render, Máy Chủ" width="324" height="324" />		<h2 class="woocommerce-loop-category__title">
+			PC Đồ Họa, Render, Máy Chủ <mark class="count">(16)</mark>		</h2>
+		</a></li>
+</ul>
+</div></section><section class="storefront-product-section storefront-recent-products" aria-label="Sản phẩm đã xem"><h2 class="section-title">Sản phẩm mới</h2><div class="woocommerce columns-4 "><ul class="products columns-4">
+<li class="product type-product post-267 status-publish first instock product_cat-pc-mini product_tag-151 product_tag-dell product_tag-optiplex-all-in-one product_tag-pc has-post-thumbnail sale taxable shipping-taxable purchasable product-type-simple">
+	<a href="http://localhost/compworld/san-pham/pc-dell-optiplex-all-in-one-7490-i5-11500-8gb-ram-512gb-ssd-23-8-inch-fhd-wlbt-km-ubuntu/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="324" height="324" src="http://localhost/compworld/wp-content/uploads/2021/11/61132_dell_7490_2.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">PC Dell OptiPlex All in One 7490 (i5-11500/8GB RAM/512GB SSD/23.8 inch FHD/WL+BT/K+M/Ubuntu)</h2>
+	<span class="onsale">Giảm giá!</span>
+	
+	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi>34.799.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi>33.299.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></ins></span>
+</a><a href="?add-to-cart=267" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="267" data-product_sku="" aria-label="Thêm &ldquo;PC Dell OptiPlex All in One 7490 (i5-11500/8GB RAM/512GB SSD/23.8 inch FHD/WL+BT/K+M/Ubuntu)&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
+<li class="product type-product post-265 status-publish instock product_cat-pc-mini product_tag-149 product_tag-all-in-one product_tag-dell product_tag-optiplex product_tag-pc has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
+	<a href="http://localhost/compworld/san-pham/pc-dell-optiplex-all-in-one-7480-i5-10500-8gb-ram-512gb-ssd-23-8-inch-fhd-touch-wlbt-km-ubuntu/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="324" height="324" src="http://localhost/compworld/wp-content/uploads/2021/11/56547_dell_7480.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">PC Dell OptiPlex All in One 7480 (i5-10500/8GB RAM/512GB SSD/23.8 inch FHD/Touch/WL+BT/K+M/Ubuntu)</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>28.989.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
+</a><a href="?add-to-cart=265" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="265" data-product_sku="" aria-label="Thêm &ldquo;PC Dell OptiPlex All in One 7480 (i5-10500/8GB RAM/512GB SSD/23.8 inch FHD/Touch/WL+BT/K+M/Ubuntu)&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
+<li class="product type-product post-263 status-publish instock product_cat-pc-mini product_tag-146 product_tag-dell product_tag-mt product_tag-optiplex product_tag-pc has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
+	<a href="http://localhost/compworld/san-pham/pc-dell-optiplex-3080-mt-i5-10500-4gb-ram-1tb-hdd-dvdrw-km-fedora-42ot380001/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="324" height="324" src="http://localhost/compworld/wp-content/uploads/2021/11/58367_56905_pc_dell_optiplex_3080_mt_micro_tower.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">PC Dell OptiPlex 3080 MT (i5-10500/4GB RAM/1TB HDD/DVDRW/K+M/Fedora) (42OT380001)</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>12.999.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
+</a><a href="?add-to-cart=263" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="263" data-product_sku="" aria-label="Thêm &ldquo;PC Dell OptiPlex 3080 MT (i5-10500/4GB RAM/1TB HDD/DVDRW/K+M/Fedora) (42OT380001)&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
+<li class="product type-product post-261 status-publish last instock product_cat-pc-mini product_tag-3080mt product_tag-dell product_tag-optiplex product_tag-pc has-post-thumbnail sale taxable shipping-taxable purchasable product-type-simple">
+	<a href="http://localhost/compworld/san-pham/pc-dell-optiplex-3080mt-i3-10100-4gb-ram-1tb-hdd-dvdrw-km-fedora-3080mt-i310100-4g1tb/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="324" height="324" src="http://localhost/compworld/wp-content/uploads/2021/11/56904_pc_dell_optiplex_3080_mt_micro_tower.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">PC Dell OptiPlex 3080MT (i3-10100/4GB RAM/1TB HDD/DVDRW/K+M/Fedora) (3080MT-i310100-4G1TB)</h2>
+	<span class="onsale">Giảm giá!</span>
+	
+	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi>9.799.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi>9.399.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></ins></span>
+</a><a href="?add-to-cart=261" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="261" data-product_sku="" aria-label="Thêm &ldquo;PC Dell OptiPlex 3080MT (i3-10100/4GB RAM/1TB HDD/DVDRW/K+M/Fedora) (3080MT-i310100-4G1TB)&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
+</ul>
+</div></section><section class="storefront-product-section storefront-popular-products" aria-label="Sản phẩm phổ biến"><h2 class="section-title">Nhiều người yêu thích</h2><div class="woocommerce columns-4 "><ul class="products columns-4">
+<li class="product type-product post-267 status-publish first instock product_cat-pc-mini product_tag-151 product_tag-dell product_tag-optiplex-all-in-one product_tag-pc has-post-thumbnail sale taxable shipping-taxable purchasable product-type-simple">
+	<a href="http://localhost/compworld/san-pham/pc-dell-optiplex-all-in-one-7490-i5-11500-8gb-ram-512gb-ssd-23-8-inch-fhd-wlbt-km-ubuntu/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="324" height="324" src="http://localhost/compworld/wp-content/uploads/2021/11/61132_dell_7490_2.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">PC Dell OptiPlex All in One 7490 (i5-11500/8GB RAM/512GB SSD/23.8 inch FHD/WL+BT/K+M/Ubuntu)</h2>
+	<span class="onsale">Giảm giá!</span>
+	
+	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi>34.799.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi>33.299.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></ins></span>
+</a><a href="?add-to-cart=267" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="267" data-product_sku="" aria-label="Thêm &ldquo;PC Dell OptiPlex All in One 7490 (i5-11500/8GB RAM/512GB SSD/23.8 inch FHD/WL+BT/K+M/Ubuntu)&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
+<li class="product type-product post-265 status-publish instock product_cat-pc-mini product_tag-149 product_tag-all-in-one product_tag-dell product_tag-optiplex product_tag-pc has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
+	<a href="http://localhost/compworld/san-pham/pc-dell-optiplex-all-in-one-7480-i5-10500-8gb-ram-512gb-ssd-23-8-inch-fhd-touch-wlbt-km-ubuntu/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="324" height="324" src="http://localhost/compworld/wp-content/uploads/2021/11/56547_dell_7480.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">PC Dell OptiPlex All in One 7480 (i5-10500/8GB RAM/512GB SSD/23.8 inch FHD/Touch/WL+BT/K+M/Ubuntu)</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>28.989.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
+</a><a href="?add-to-cart=265" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="265" data-product_sku="" aria-label="Thêm &ldquo;PC Dell OptiPlex All in One 7480 (i5-10500/8GB RAM/512GB SSD/23.8 inch FHD/Touch/WL+BT/K+M/Ubuntu)&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
+<li class="product type-product post-263 status-publish instock product_cat-pc-mini product_tag-146 product_tag-dell product_tag-mt product_tag-optiplex product_tag-pc has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
+	<a href="http://localhost/compworld/san-pham/pc-dell-optiplex-3080-mt-i5-10500-4gb-ram-1tb-hdd-dvdrw-km-fedora-42ot380001/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="324" height="324" src="http://localhost/compworld/wp-content/uploads/2021/11/58367_56905_pc_dell_optiplex_3080_mt_micro_tower.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">PC Dell OptiPlex 3080 MT (i5-10500/4GB RAM/1TB HDD/DVDRW/K+M/Fedora) (42OT380001)</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>12.999.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
+</a><a href="?add-to-cart=263" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="263" data-product_sku="" aria-label="Thêm &ldquo;PC Dell OptiPlex 3080 MT (i5-10500/4GB RAM/1TB HDD/DVDRW/K+M/Fedora) (42OT380001)&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
+<li class="product type-product post-261 status-publish last instock product_cat-pc-mini product_tag-3080mt product_tag-dell product_tag-optiplex product_tag-pc has-post-thumbnail sale taxable shipping-taxable purchasable product-type-simple">
+	<a href="http://localhost/compworld/san-pham/pc-dell-optiplex-3080mt-i3-10100-4gb-ram-1tb-hdd-dvdrw-km-fedora-3080mt-i310100-4g1tb/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="324" height="324" src="http://localhost/compworld/wp-content/uploads/2021/11/56904_pc_dell_optiplex_3080_mt_micro_tower.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">PC Dell OptiPlex 3080MT (i3-10100/4GB RAM/1TB HDD/DVDRW/K+M/Fedora) (3080MT-i310100-4G1TB)</h2>
+	<span class="onsale">Giảm giá!</span>
+	
+	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi>9.799.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi>9.399.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></ins></span>
+</a><a href="?add-to-cart=261" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="261" data-product_sku="" aria-label="Thêm &ldquo;PC Dell OptiPlex 3080MT (i3-10100/4GB RAM/1TB HDD/DVDRW/K+M/Fedora) (3080MT-i310100-4G1TB)&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
+</ul>
+</div></section><section class="storefront-product-section storefront-on-sale-products" aria-label="Sản phẩm giảm giá"><h2 class="section-title">Đang giảm giá</h2><div class="woocommerce columns-4 "><ul class="products columns-4">
+<li class="product type-product post-267 status-publish first instock product_cat-pc-mini product_tag-151 product_tag-dell product_tag-optiplex-all-in-one product_tag-pc has-post-thumbnail sale taxable shipping-taxable purchasable product-type-simple">
+	<a href="http://localhost/compworld/san-pham/pc-dell-optiplex-all-in-one-7490-i5-11500-8gb-ram-512gb-ssd-23-8-inch-fhd-wlbt-km-ubuntu/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="324" height="324" src="http://localhost/compworld/wp-content/uploads/2021/11/61132_dell_7490_2.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">PC Dell OptiPlex All in One 7490 (i5-11500/8GB RAM/512GB SSD/23.8 inch FHD/WL+BT/K+M/Ubuntu)</h2>
+	<span class="onsale">Giảm giá!</span>
+	
+	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi>34.799.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi>33.299.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></ins></span>
+</a><a href="?add-to-cart=267" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="267" data-product_sku="" aria-label="Thêm &ldquo;PC Dell OptiPlex All in One 7490 (i5-11500/8GB RAM/512GB SSD/23.8 inch FHD/WL+BT/K+M/Ubuntu)&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
+<li class="product type-product post-261 status-publish instock product_cat-pc-mini product_tag-3080mt product_tag-dell product_tag-optiplex product_tag-pc has-post-thumbnail sale taxable shipping-taxable purchasable product-type-simple">
+	<a href="http://localhost/compworld/san-pham/pc-dell-optiplex-3080mt-i3-10100-4gb-ram-1tb-hdd-dvdrw-km-fedora-3080mt-i310100-4g1tb/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="324" height="324" src="http://localhost/compworld/wp-content/uploads/2021/11/56904_pc_dell_optiplex_3080_mt_micro_tower.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">PC Dell OptiPlex 3080MT (i3-10100/4GB RAM/1TB HDD/DVDRW/K+M/Fedora) (3080MT-i310100-4G1TB)</h2>
+	<span class="onsale">Giảm giá!</span>
+	
+	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi>9.799.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi>9.399.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></ins></span>
+</a><a href="?add-to-cart=261" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="261" data-product_sku="" aria-label="Thêm &ldquo;PC Dell OptiPlex 3080MT (i3-10100/4GB RAM/1TB HDD/DVDRW/K+M/Fedora) (3080MT-i310100-4G1TB)&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
+<li class="product type-product post-234 status-publish instock product_cat-pc-server product_tag-dung-phim product_tag-hacom product_tag-p015 product_tag-pc has-post-thumbnail sale taxable shipping-taxable purchasable product-type-simple">
+	<a href="http://localhost/compworld/san-pham/pc-hacom-dung-phim-p015-w-1270p-w480-32gb-ram-ecc-rtx-a4000-500gb-ssd-550w/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="324" height="324" src="http://localhost/compworld/wp-content/uploads/2021/11/58724_pc_dung_phim_p015.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">PC HACOM Dựng phim P015 (W-1270P/W480/32GB RAM ECC/RTX A4000/500GB SSD/550w)</h2>
+	<span class="onsale">Giảm giá!</span>
+	
+	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi>64.639.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi>60.399.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></ins></span>
+</a><a href="?add-to-cart=234" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="234" data-product_sku="" aria-label="Thêm &ldquo;PC HACOM Dựng phim P015 (W-1270P/W480/32GB RAM ECC/RTX A4000/500GB SSD/550w)&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
+<li class="product type-product post-228 status-publish last instock product_cat-pc-server product_tag-d029 product_tag-designer product_tag-hacom product_tag-pc has-post-thumbnail sale taxable shipping-taxable purchasable product-type-simple">
+	<a href="http://localhost/compworld/san-pham/pc-hacom-designer-d029-i9-10900k-z490-64gb-ram-quadro-rtx5000-1tb-ssd-750w/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="324" height="324" src="http://localhost/compworld/wp-content/uploads/2021/11/56114_pc_designer_d029.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">PC HACOM Designer D029 (i9-10900K/Z490/64GB RAM/Quadro RTX5000/1TB SSD/750w)</h2>
+	<span class="onsale">Giảm giá!</span>
+	
+	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi>121.409.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi>107.759.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></ins></span>
+</a><a href="?add-to-cart=228" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="228" data-product_sku="" aria-label="Thêm &ldquo;PC HACOM Designer D029 (i9-10900K/Z490/64GB RAM/Quadro RTX5000/1TB SSD/750w)&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
+</ul>
+</div></section><section class="storefront-product-section storefront-best-selling-products" aria-label="Sản phẩm bán chạy"><h2 class="section-title">Bán chạy nhất</h2><div class="woocommerce columns-4 "><ul class="products columns-4">
+<li class="product type-product post-125 status-publish first instock product_cat-laptop product_tag-95 product_tag-apple product_tag-macbook product_tag-mpxt2sa product_tag-pro has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
+	<a href="http://localhost/compworld/san-pham/apple-macbook-pro-13-mpxt2sa-ai5-7360u-8gb-ram-256gb-ssd-13-3-inch-mac-os-xam/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="324" height="319" src="http://localhost/compworld/wp-content/uploads/2021/11/38187_macbook_pro_13_mpxt2saa__5_.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Apple Macbook Pro 13 MPXT2SA/A(i5-7360U/8GB RAM/256GB SSD/13.3 inch/Mac OS/Xám)</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>32.399.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
+</a><a href="?add-to-cart=125" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="125" data-product_sku="" aria-label="Thêm &ldquo;Apple Macbook Pro 13 MPXT2SA/A(i5-7360U/8GB RAM/256GB SSD/13.3 inch/Mac OS/Xám)&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
+<li class="product type-product post-131 status-publish instock product_cat-laptop product_tag-95 product_tag-apple-macbook product_tag-pro product_tag-touchbar has-post-thumbnail sale taxable shipping-taxable purchasable product-type-simple">
+	<a href="http://localhost/compworld/san-pham/apple-macbook-pro-13-touchbar-mwp82-i5-2-0ghz-16gb-ram-1tb-ssd-13-3inch-ips-mac-os-bac/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="324" height="319" src="http://localhost/compworld/wp-content/uploads/2021/11/53575_apple_macbook_pro_13_touchbar_mwp82_5.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Apple Macbook Pro 13 Touchbar (MWP82) (i5 2.0Ghz/16GB RAM/1TB SSD/13.3inch IPS/Mac OS/Bạc)</h2>
+	<span class="onsale">Giảm giá!</span>
+	
+	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi>55.539.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi>54.529.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></ins></span>
+</a><a href="?add-to-cart=131" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="131" data-product_sku="" aria-label="Thêm &ldquo;Apple Macbook Pro 13 Touchbar (MWP82) (i5 2.0Ghz/16GB RAM/1TB SSD/13.3inch IPS/Mac OS/Bạc)&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
+<li class="product type-product post-25 status-publish instock product_cat-pc-gaming product_tag-gaming-limited-003 product_tag-i9-10900k product_tag-pc-gaming product_tag-rtx2080ti has-post-thumbnail sale taxable shipping-taxable purchasable product-type-simple">
+	<a href="http://localhost/compworld/san-pham/pc-enthusiast-gaming-limited-003-i9-10900k-z490-64gb-ram-2tb-ssd-6tb-hdd-rtx-2080ti-1200w-tan-aio-asus-ryujin-360-win-10-pro-rgb/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="324" height="324" src="http://localhost/compworld/wp-content/uploads/2021/11/54221_pc_gaming_enthusiast_limited_003.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">PC ENTHUSIAST GAMING LIMITED 003 (I9 10900K/Z490/64GB RAM/2TB SSD/6TB HDD/RTX 2080Ti/1200W/Tản AIO ASUS RYUJIN 360/Win 10 Pro/ RGB)</h2>
+	<span class="onsale">Giảm giá!</span>
+	
+	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi>209.999.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi>207.999.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></ins></span>
+</a><a href="?add-to-cart=25" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="25" data-product_sku="" aria-label="Thêm &ldquo;PC ENTHUSIAST GAMING LIMITED 003 (I9 10900K/Z490/64GB RAM/2TB SSD/6TB HDD/RTX 2080Ti/1200W/Tản AIO ASUS RYUJIN 360/Win 10 Pro/ RGB)&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
+<li class="product type-product post-251 status-publish last instock product_cat-pc-server product_tag-asus product_tag-e900 product_tag-g4 product_tag-may-tram product_tag-pc has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
+	<a href="http://localhost/compworld/san-pham/may-tram-asus-e900-g4-barebone-c621-dvd-rw-2000w-titanium-redundant-power-11/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="324" height="324" src="http://localhost/compworld/wp-content/uploads/2021/11/54523_asus_e900_g4_004.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Máy trạm Asus E900 G4 (Barebone / C621 / DVD-RW / 2000W TITANIUM Redundant Power (1+1))</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>93.929.000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
+</a><a href="?add-to-cart=251" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="251" data-product_sku="" aria-label="Thêm &ldquo;Máy trạm Asus E900 G4 (Barebone / C621 / DVD-RW / 2000W TITANIUM Redundant Power (1+1))&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
+</ul>
+</div></section>
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+		</div><!-- .col-full -->
+	</div><!-- #content -->
+
+
+	<footer id="colophon" class="site-footer" role="contentinfo">
+		<div class="col-full">
+
+			© 2021 Công ty Cổ phần đầu tư công nghệ CompWorld<br>
+
+			Địa chỉ: Tây Hồ, Hà Nội<br>
+
+			GPĐKKD số 0101161194 do Sở KHĐT Tp.Hà Nội cấp ngày 31/8/2001<br>
+
+			Email: admin@compworld.com. Điện thoại: 1900 1909
+
+		</div><!-- .col-full -->
+	</footer><!-- #colophon -->
+
+
+</div><!-- #page -->
+
+<p class="woocommerce-store-notice demo_store" data-notice-id="d1ecded566063bc329922240959acdad" style="display:none;">Shop đang có sale, nhanh tay order <a href="#" class="woocommerce-store-notice__dismiss-link">Bỏ qua</a></p><script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"name":"Trang ch\u1ee7","@id":"http:\/\/localhost\/compworld"}}]}</script>	<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<script src='http://localhost/compworld/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.5.8.0' id='jquery-blockui-js'></script>
+<script id='wc-add-to-cart-js-extra'>
+var wc_add_to_cart_params = {"ajax_url":"\/compworld\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/compworld\/?wc-ajax=%%endpoint%%","i18n_view_cart":"Xem gi\u1ecf h\u00e0ng","cart_url":"http:\/\/localhost\/compworld\/gio-hang\/","is_cart":"","cart_redirect_after_add":"no"};
+</script>
+<script src='http://localhost/compworld/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=5.8.0' id='wc-add-to-cart-js'></script>
+<script src='http://localhost/compworld/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.5.8.0' id='js-cookie-js'></script>
+<script id='woocommerce-js-extra'>
+var woocommerce_params = {"ajax_url":"\/compworld\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/compworld\/?wc-ajax=%%endpoint%%"};
+</script>
+<script src='http://localhost/compworld/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=5.8.0' id='woocommerce-js'></script>
+<script id='wc-cart-fragments-js-extra'>
+var wc_cart_fragments_params = {"ajax_url":"\/compworld\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/compworld\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_b459b585ff8a5bb5b6d543f4dc63ca48","fragment_name":"wc_fragments_b459b585ff8a5bb5b6d543f4dc63ca48","request_timeout":"5000"};
+</script>
+<script src='http://localhost/compworld/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=5.8.0' id='wc-cart-fragments-js'></script>
+<script src='http://localhost/compworld/wp-content/themes/storefront/assets/js/navigation.min.js?ver=3.9.1' id='storefront-navigation-js'></script>
+<script src='http://localhost/compworld/wp-content/themes/storefront/assets/js/woocommerce/header-cart.min.js?ver=3.9.1' id='storefront-header-cart-js'></script>
+<script src='http://localhost/compworld/wp-content/themes/storefront/assets/js/footer.min.js?ver=3.9.1' id='storefront-handheld-footer-bar-js'></script>
+<script src='http://localhost/compworld/wp-includes/js/wp-embed.min.js?ver=5.8.1' id='wp-embed-js'></script>
+
+</body>
+</html>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using disk: enhanced 
+
+Served from: localhost @ 2021-11-03 03:02:00 by W3 Total Cache
+-->
